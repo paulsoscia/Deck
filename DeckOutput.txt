@@ -1,0 +1,2432 @@
+duplicate card j=15 sCard= 2 D d=5
+duplicate card j=22 sCard= Q D d=4
+duplicate card j=34 sCard= A D d=2
+duplicate card j=42 sCard= J D d=4
+duplicate card j=42 sCard= 8 H d=4
+duplicate card j=48 sCard= 7 H d=2
+duplicate card j=49 sCard= A C d=5
+duplicate card j=51 sCard= 7 D d=1
+duplicate card j=51 sCard= J H d=1
+duplicate card j=61 sCard= J ? d=2
+duplicate card j=61 sCard= A C d=1
+duplicate card j=63 sCard= 4 C d=5
+duplicate card j=64 sCard= 6 ? d=3
+duplicate card j=73 sCard= A H d=2
+duplicate card j=74 sCard= A H d=4
+duplicate card j=75 sCard=10 ? d=5
+duplicate card j=80 sCard= Q H d=3
+duplicate card j=84 sCard= 7 D d=1
+duplicate card j=84 sCard= 9 H d=3
+duplicate card j=86 sCard= 2 ? d=5
+duplicate card j=93 sCard= 7 ? d=4
+duplicate card j=93 sCard= J ? d=3
+duplicate card j=93 sCard= 5 C d=1
+duplicate card j=93 sCard= 7 ? d=2
+duplicate card j=96 sCard= J ? d=3
+duplicate card j=96 sCard= 2 H d=1
+duplicate card j=98 sCard= 4 C d=5
+duplicate card j=99 sCard= 5 H d=4
+duplicate card j=99 sCard= J ? d=1
+duplicate card j=101 sCard= A C d=0
+duplicate card j=106 sCard=10 H d=4
+duplicate card j=112 sCard=10 H d=4
+duplicate card j=112 sCard=10 ? d=5
+duplicate card j=114 sCard= A C d=5
+duplicate card j=118 sCard= 5 D d=3
+duplicate card j=118 sCard= 5 H d=2
+duplicate card j=118 sCard= 6 ? d=2
+duplicate card j=121 sCard= A ? d=2
+duplicate card j=123 sCard= A H d=2
+duplicate card j=128 sCard= 4 C d=5
+duplicate card j=128 sCard= K C d=1
+duplicate card j=129 sCard= 6 H d=4
+duplicate card j=129 sCard= 5 ? d=2
+duplicate card j=132 sCard= A H d=4
+duplicate card j=135 sCard= 9 C d=1
+duplicate card j=135 sCard= 9 H d=3
+duplicate card j=135 sCard= 4 D d=0
+duplicate card j=138 sCard= 3 C d=1
+duplicate card j=138 sCard= 9 D d=3
+duplicate card j=139 sCard= A C d=0
+duplicate card j=144 sCard= 7 ? d=2
+duplicate card j=144 sCard= 2 C d=3
+duplicate card j=145 sCard= A ? d=4
+duplicate card j=146 sCard= 3 D d=0
+duplicate card j=146 sCard= 8 H d=2
+duplicate card j=146 sCard= 6 D d=3
+duplicate card j=147 sCard= 3 H d=4
+duplicate card j=147 sCard=10 D d=3
+duplicate card j=147 sCard=10 D d=0
+duplicate card j=149 sCard= 3 H d=4
+duplicate card j=149 sCard= 6 ? d=2
+duplicate card j=150 sCard= 5 D d=4
+duplicate card j=151 sCard= 6 C d=0
+duplicate card j=152 sCard=10 C d=0
+duplicate card j=154 sCard= 4 D d=0
+duplicate card j=155 sCard= 8 ? d=5
+duplicate card j=155 sCard= 9 D d=2
+duplicate card j=155 sCard= 4 D d=4
+duplicate card j=156 sCard= A C d=1
+duplicate card j=158 sCard= J H d=1
+duplicate card j=158 sCard= 6 ? d=2
+duplicate card j=158 sCard=10 D d=0
+duplicate card j=159 sCard= 3 C d=0
+duplicate card j=159 sCard= 9 D d=2
+duplicate card j=159 sCard= 6 ? d=4
+duplicate card j=159 sCard= 5 C d=3
+duplicate card j=159 sCard= 9 H d=3
+duplicate card j=160 sCard= 7 ? d=4
+duplicate card j=160 sCard= 7 H d=1
+duplicate card j=163 sCard= 6 D d=0
+duplicate card j=163 sCard= 5 ? d=4
+duplicate card j=164 sCard=10 D d=2
+duplicate card j=164 sCard= 7 H d=0
+duplicate card j=164 sCard= 6 C d=0
+duplicate card j=164 sCard= 3 D d=0
+duplicate card j=164 sCard= A ? d=0
+duplicate card j=164 sCard=10 C d=5
+duplicate card j=165 sCard= Q H d=1
+duplicate card j=165 sCard= 7 ? d=2
+duplicate card j=166 sCard=10 D d=3
+duplicate card j=166 sCard= J D d=5
+duplicate card j=166 sCard= 4 ? d=4
+duplicate card j=166 sCard= 2 ? d=0
+duplicate card j=167 sCard= 9 C d=2
+duplicate card j=167 sCard=10 H d=5
+duplicate card j=167 sCard= A H d=4
+duplicate card j=169 sCard= K C d=2
+duplicate card j=170 sCard= A ? d=5
+duplicate card j=170 sCard= J ? d=1
+duplicate card j=170 sCard= K H d=1
+duplicate card j=171 sCard= 2 D d=0
+duplicate card j=171 sCard= J H d=0
+duplicate card j=171 sCard= A C d=1
+duplicate card j=171 sCard= A D d=3
+duplicate card j=173 sCard= K C d=2
+duplicate card j=173 sCard= 8 D d=3
+duplicate card j=173 sCard= 9 ? d=3
+duplicate card j=173 sCard= 3 H d=5
+duplicate card j=173 sCard= 2 ? d=1
+duplicate card j=174 sCard= 5 C d=1
+duplicate card j=175 sCard= 9 C d=2
+duplicate card j=176 sCard= 4 ? d=3
+duplicate card j=178 sCard= 2 D d=0
+duplicate card j=178 sCard= 6 ? d=0
+duplicate card j=178 sCard= 6 C d=2
+duplicate card j=178 sCard= 8 D d=1
+duplicate card j=178 sCard= 2 H d=3
+duplicate card j=178 sCard=10 H d=3
+duplicate card j=178 sCard= Q D d=4
+duplicate card j=179 sCard=10 C d=3
+duplicate card j=179 sCard= 5 ? d=4
+duplicate card j=179 sCard= Q D d=0
+duplicate card j=179 sCard= K H d=1
+duplicate card j=179 sCard= 4 C d=4
+duplicate card j=181 sCard=10 C d=0
+duplicate card j=181 sCard= 2 H d=1
+duplicate card j=184 sCard= 5 H d=4
+duplicate card j=186 sCard= A ? d=0
+duplicate card j=186 sCard= 2 C d=0
+duplicate card j=186 sCard=10 D d=0
+duplicate card j=187 sCard= 2 D d=5
+duplicate card j=187 sCard= 3 H d=4
+duplicate card j=187 sCard= 2 C d=3
+duplicate card j=187 sCard= 4 ? d=4
+duplicate card j=188 sCard= K C d=1
+duplicate card j=189 sCard= 7 H d=2
+duplicate card j=190 sCard= 9 H d=4
+duplicate card j=192 sCard= 3 ? d=2
+duplicate card j=192 sCard=10 C d=1
+duplicate card j=193 sCard= Q H d=0
+duplicate card j=193 sCard=10 C d=0
+duplicate card j=193 sCard= J D d=2
+duplicate card j=193 sCard=10 H d=4
+duplicate card j=195 sCard= 6 ? d=4
+duplicate card j=195 sCard= 9 C d=1
+duplicate card j=195 sCard= 9 D d=2
+duplicate card j=198 sCard= 6 H d=2
+duplicate card j=198 sCard= 4 C d=4
+duplicate card j=198 sCard= Q ? d=2
+duplicate card j=198 sCard= 8 H d=0
+duplicate card j=198 sCard= 9 D d=0
+duplicate card j=198 sCard= A C d=0
+duplicate card j=198 sCard= 4 C d=2
+duplicate card j=199 sCard= 3 C d=4
+duplicate card j=199 sCard=10 ? d=5
+duplicate card j=200 sCard=10 ? d=0
+duplicate card j=200 sCard= 9 C d=2
+duplicate card j=200 sCard= 2 C d=5
+duplicate card j=201 sCard= 7 D d=5
+duplicate card j=201 sCard=10 C d=1
+duplicate card j=206 sCard= 7 D d=2
+duplicate card j=206 sCard=10 C d=3
+duplicate card j=206 sCard= 6 H d=4
+duplicate card j=209 sCard= J D d=5
+duplicate card j=209 sCard= 5 ? d=2
+duplicate card j=210 sCard= J ? d=2
+duplicate card j=211 sCard= 8 H d=0
+duplicate card j=212 sCard= 3 C d=5
+duplicate card j=212 sCard= 2 ? d=2
+duplicate card j=212 sCard= Q D d=0
+duplicate card j=212 sCard= 5 C d=1
+duplicate card j=212 sCard= K D d=0
+duplicate card j=212 sCard= 8 C d=5
+duplicate card j=212 sCard= 8 C d=5
+duplicate card j=213 sCard= 4 ? d=0
+duplicate card j=214 sCard= J ? d=3
+duplicate card j=214 sCard=10 D d=0
+duplicate card j=214 sCard= 6 C d=0
+duplicate card j=214 sCard= K ? d=0
+duplicate card j=214 sCard= A C d=0
+duplicate card j=214 sCard= 6 ? d=0
+duplicate card j=214 sCard= Q D d=0
+duplicate card j=214 sCard=10 C d=0
+duplicate card j=214 sCard= 8 H d=0
+duplicate card j=215 sCard= 2 D d=4
+duplicate card j=216 sCard= K C d=2
+duplicate card j=216 sCard= 6 ? d=4
+duplicate card j=216 sCard=10 C d=5
+duplicate card j=216 sCard= K D d=4
+duplicate card j=217 sCard= 8 H d=5
+duplicate card j=218 sCard= 4 C d=0
+duplicate card j=218 sCard= J ? d=5
+duplicate card j=218 sCard= 5 H d=3
+duplicate card j=218 sCard= J H d=3
+duplicate card j=218 sCard= 5 D d=1
+duplicate card j=218 sCard= J H d=0
+duplicate card j=219 sCard= 7 ? d=4
+duplicate card j=219 sCard= 2 ? d=0
+duplicate card j=219 sCard= 2 C d=4
+duplicate card j=219 sCard= Q H d=0
+duplicate card j=219 sCard= J ? d=1
+duplicate card j=219 sCard= J D d=3
+duplicate card j=219 sCard= 7 D d=2
+duplicate card j=219 sCard= 2 C d=3
+duplicate card j=219 sCard=10 C d=2
+duplicate card j=219 sCard= 9 D d=0
+duplicate card j=220 sCard= A D d=1
+duplicate card j=220 sCard=10 D d=0
+duplicate card j=220 sCard= 3 H d=5
+duplicate card j=220 sCard= 3 H d=5
+duplicate card j=220 sCard= 9 ? d=0
+duplicate card j=220 sCard= 7 D d=5
+duplicate card j=220 sCard= 9 C d=5
+duplicate card j=220 sCard= 4 D d=4
+duplicate card j=220 sCard= Q ? d=1
+duplicate card j=220 sCard= K C d=0
+duplicate card j=220 sCard= 7 D d=0
+duplicate card j=221 sCard= 4 H d=3
+duplicate card j=222 sCard= A ? d=3
+duplicate card j=223 sCard= Q C d=3
+duplicate card j=223 sCard= 8 ? d=5
+duplicate card j=223 sCard=10 H d=2
+duplicate card j=223 sCard= 3 D d=2
+duplicate card j=225 sCard= A D d=3
+duplicate card j=225 sCard= 4 D d=4
+duplicate card j=225 sCard= K ? d=0
+duplicate card j=229 sCard= J ? d=3
+duplicate card j=230 sCard= 5 C d=3
+duplicate card j=230 sCard= 4 ? d=0
+duplicate card j=231 sCard= 2 H d=0
+duplicate card j=232 sCard= A H d=5
+duplicate card j=232 sCard= J C d=3
+duplicate card j=233 sCard= 8 ? d=4
+duplicate card j=233 sCard= 5 ? d=5
+duplicate card j=234 sCard= 2 H d=3
+duplicate card j=236 sCard= 6 ? d=4
+duplicate card j=236 sCard= 2 ? d=2
+duplicate card j=236 sCard= 9 C d=3
+duplicate card j=236 sCard= 7 D d=0
+duplicate card j=238 sCard= A D d=3
+duplicate card j=238 sCard= 8 C d=4
+duplicate card j=238 sCard= 6 D d=3
+duplicate card j=239 sCard= 5 ? d=0
+duplicate card j=241 sCard= A D d=1
+duplicate card j=241 sCard= 8 C d=2
+duplicate card j=242 sCard=10 C d=3
+duplicate card j=242 sCard= K D d=4
+duplicate card j=242 sCard= 7 C d=0
+duplicate card j=242 sCard= 3 C d=2
+duplicate card j=242 sCard= 4 D d=3
+duplicate card j=242 sCard= 4 D d=3
+duplicate card j=242 sCard=10 ? d=4
+duplicate card j=242 sCard= 5 C d=0
+duplicate card j=242 sCard=10 ? d=5
+duplicate card j=242 sCard= 7 D d=2
+duplicate card j=242 sCard= A C d=0
+duplicate card j=242 sCard= 2 C d=2
+duplicate card j=242 sCard= 7 H d=1
+duplicate card j=242 sCard= 7 ? d=2
+duplicate card j=242 sCard= 3 D d=4
+duplicate card j=242 sCard= 7 ? d=0
+duplicate card j=242 sCard= 9 C d=3
+duplicate card j=242 sCard= 2 ? d=4
+duplicate card j=242 sCard= 6 D d=5
+duplicate card j=242 sCard= 5 H d=3
+duplicate card j=242 sCard= 5 H d=3
+duplicate card j=242 sCard= 3 D d=4
+duplicate card j=242 sCard= 5 H d=0
+duplicate card j=242 sCard= 3 D d=4
+duplicate card j=242 sCard= K ? d=5
+duplicate card j=242 sCard= Q D d=4
+duplicate card j=243 sCard= K D d=3
+duplicate card j=243 sCard= 4 C d=2
+duplicate card j=243 sCard= Q D d=5
+duplicate card j=243 sCard= 4 C d=3
+duplicate card j=243 sCard= 3 D d=0
+duplicate card j=243 sCard= 7 C d=2
+duplicate card j=243 sCard= Q C d=2
+duplicate card j=243 sCard= 7 H d=2
+duplicate card j=243 sCard= 8 H d=5
+duplicate card j=243 sCard= K C d=4
+duplicate card j=243 sCard= A ? d=3
+duplicate card j=243 sCard= K C d=1
+duplicate card j=243 sCard=10 D d=0
+duplicate card j=243 sCard= A C d=5
+duplicate card j=243 sCard= 3 C d=2
+duplicate card j=243 sCard= Q C d=1
+duplicate card j=243 sCard= 4 C d=5
+duplicate card j=243 sCard=10 D d=3
+duplicate card j=243 sCard= 7 D d=1
+duplicate card j=243 sCard= 6 H d=1
+duplicate card j=243 sCard= K D d=4
+duplicate card j=243 sCard= 8 H d=0
+duplicate card j=243 sCard= 8 D d=1
+duplicate card j=243 sCard= 5 C d=5
+duplicate card j=243 sCard= 9 C d=2
+duplicate card j=243 sCard= Q D d=3
+duplicate card j=243 sCard= 8 C d=1
+duplicate card j=244 sCard= 5 ? d=4
+duplicate card j=244 sCard= 2 C d=4
+duplicate card j=245 sCard= Q D d=1
+duplicate card j=245 sCard= 7 ? d=1
+duplicate card j=246 sCard= A H d=2
+duplicate card j=246 sCard= 7 D d=2
+duplicate card j=247 sCard= A D d=1
+duplicate card j=248 sCard= 9 D d=3
+duplicate card j=248 sCard= 7 H d=1
+duplicate card j=249 sCard=10 D d=3
+duplicate card j=249 sCard= 9 D d=0
+duplicate card j=249 sCard= 3 C d=5
+duplicate card j=249 sCard= 7 D d=2
+duplicate card j=249 sCard=10 H d=5
+duplicate card j=250 sCard= 9 C d=3
+duplicate card j=250 sCard= K D d=1
+duplicate card j=250 sCard= 7 D d=2
+duplicate card j=253 sCard= J D d=5
+duplicate card j=253 sCard= 7 ? d=1
+duplicate card j=254 sCard= 5 C d=0
+duplicate card j=255 sCard= 7 ? d=3
+duplicate card j=255 sCard=10 D d=0
+duplicate card j=255 sCard= 6 H d=4
+duplicate card j=258 sCard= K ? d=0
+duplicate card j=258 sCard= 5 ? d=2
+duplicate card j=259 sCard=10 C d=1
+duplicate card j=259 sCard= 4 C d=1
+duplicate card j=259 sCard= 4 D d=0
+duplicate card j=260 sCard= 4 ? d=1
+duplicate card j=261 sCard= 6 C d=1
+duplicate card j=261 sCard= 6 C d=0
+duplicate card j=261 sCard= Q D d=1
+duplicate card j=261 sCard= 8 C d=5
+duplicate card j=261 sCard= 6 ? d=4
+duplicate card j=261 sCard= J D d=5
+duplicate card j=261 sCard= A D d=4
+duplicate card j=261 sCard=10 ? d=0
+duplicate card j=261 sCard= 5 ? d=4
+duplicate card j=263 sCard= 6 ? d=5
+duplicate card j=263 sCard= 8 ? d=3
+duplicate card j=263 sCard= K H d=5
+duplicate card j=263 sCard= K D d=3
+duplicate card j=263 sCard= Q C d=4
+duplicate card j=263 sCard=10 H d=5
+duplicate card j=263 sCard=10 H d=4
+duplicate card j=263 sCard= 4 ? d=5
+duplicate card j=263 sCard= J H d=0
+duplicate card j=263 sCard= 5 ? d=0
+duplicate card j=263 sCard= K C d=4
+duplicate card j=263 sCard= J ? d=0
+duplicate card j=263 sCard= 9 C d=2
+duplicate card j=263 sCard= 4 ? d=3
+duplicate card j=263 sCard= 3 H d=2
+duplicate card j=263 sCard=10 C d=0
+duplicate card j=264 sCard= A C d=3
+duplicate card j=264 sCard= A C d=3
+duplicate card j=264 sCard= K D d=0
+duplicate card j=264 sCard= 7 C d=0
+duplicate card j=264 sCard= J D d=5
+duplicate card j=265 sCard= K C d=4
+duplicate card j=265 sCard= Q C d=2
+duplicate card j=266 sCard= A C d=0
+duplicate card j=266 sCard= 4 C d=4
+duplicate card j=266 sCard= 6 C d=3
+duplicate card j=266 sCard= 6 ? d=3
+duplicate card j=266 sCard=10 H d=1
+duplicate card j=267 sCard= 9 C d=1
+duplicate card j=268 sCard= 8 H d=2
+duplicate card j=268 sCard= 9 ? d=5
+duplicate card j=269 sCard= A ? d=1
+duplicate card j=269 sCard= 3 C d=5
+duplicate card j=269 sCard= 8 ? d=2
+duplicate card j=269 sCard= J H d=3
+duplicate card j=269 sCard= A H d=4
+duplicate card j=269 sCard= 3 D d=2
+duplicate card j=269 sCard= A H d=3
+duplicate card j=269 sCard= 6 D d=5
+duplicate card j=270 sCard= 3 ? d=4
+duplicate card j=271 sCard= Q C d=5
+duplicate card j=271 sCard= A D d=1
+duplicate card j=271 sCard=10 ? d=1
+duplicate card j=273 sCard= 7 D d=5
+duplicate card j=273 sCard= 9 H d=4
+duplicate card j=273 sCard= K C d=0
+duplicate card j=273 sCard= A C d=2
+duplicate card j=273 sCard= J D d=3
+duplicate card j=273 sCard= A ? d=0
+duplicate card j=273 sCard= 2 H d=3
+duplicate card j=273 sCard= 4 ? d=0
+duplicate card j=274 sCard= 7 ? d=2
+duplicate card j=276 sCard= 8 ? d=5
+duplicate card j=276 sCard= 6 C d=4
+duplicate card j=276 sCard= 8 C d=3
+duplicate card j=276 sCard= 9 C d=2
+duplicate card j=276 sCard= 6 H d=3
+duplicate card j=276 sCard= 4 D d=4
+duplicate card j=276 sCard= 6 D d=3
+duplicate card j=276 sCard= 2 C d=5
+duplicate card j=276 sCard= 3 C d=5
+duplicate card j=276 sCard= 6 C d=0
+duplicate card j=276 sCard= 3 H d=2
+duplicate card j=276 sCard= 4 C d=5
+duplicate card j=276 sCard= K D d=5
+duplicate card j=277 sCard= 9 C d=2
+duplicate card j=277 sCard=10 D d=4
+duplicate card j=277 sCard= Q H d=5
+duplicate card j=277 sCard= Q H d=3
+duplicate card j=277 sCard= 8 ? d=3
+duplicate card j=277 sCard= 6 ? d=1
+duplicate card j=279 sCard= A H d=1
+duplicate card j=280 sCard= 6 H d=0
+duplicate card j=280 sCard= 2 H d=1
+duplicate card j=280 sCard=10 C d=0
+duplicate card j=280 sCard= K H d=5
+duplicate card j=280 sCard= A H d=3
+duplicate card j=280 sCard=10 H d=3
+duplicate card j=281 sCard= 4 ? d=1
+duplicate card j=281 sCard= 7 H d=4
+duplicate card j=281 sCard= Q D d=3
+duplicate card j=281 sCard= 8 D d=2
+duplicate card j=282 sCard= 8 C d=2
+duplicate card j=283 sCard= 3 ? d=2
+duplicate card j=286 sCard= A D d=1
+duplicate card j=286 sCard= 2 C d=0
+duplicate card j=286 sCard= 2 ? d=4
+duplicate card j=286 sCard= 9 ? d=3
+duplicate card j=286 sCard= 6 C d=3
+duplicate card j=286 sCard= 7 C d=5
+duplicate card j=286 sCard= 2 D d=2
+duplicate card j=286 sCard= Q D d=5
+duplicate card j=286 sCard= Q ? d=0
+duplicate card j=287 sCard= 9 C d=4
+duplicate card j=287 sCard=10 D d=1
+duplicate card j=287 sCard= J H d=4
+duplicate card j=287 sCard= K D d=3
+duplicate card j=287 sCard= 9 D d=3
+duplicate card j=287 sCard= 5 ? d=3
+duplicate card j=288 sCard= 5 H d=4
+duplicate card j=288 sCard= A C d=2
+duplicate card j=288 sCard= 3 C d=2
+duplicate card j=288 sCard= 8 C d=2
+duplicate card j=288 sCard= 7 ? d=5
+duplicate card j=288 sCard= 5 ? d=0
+duplicate card j=288 sCard= 8 C d=3
+duplicate card j=288 sCard= Q H d=2
+duplicate card j=288 sCard= 7 C d=0
+duplicate card j=288 sCard= 9 C d=1
+duplicate card j=288 sCard=10 ? d=2
+duplicate card j=288 sCard= J ? d=4
+duplicate card j=288 sCard=10 D d=2
+duplicate card j=288 sCard=10 ? d=2
+duplicate card j=288 sCard= 5 C d=3
+duplicate card j=288 sCard= 3 C d=4
+duplicate card j=288 sCard=10 D d=4
+duplicate card j=288 sCard= 5 ? d=2
+duplicate card j=288 sCard= 4 D d=5
+duplicate card j=289 sCard= 8 H d=2
+duplicate card j=289 sCard=10 D d=1
+duplicate card j=289 sCard= K C d=3
+duplicate card j=289 sCard= Q C d=5
+duplicate card j=289 sCard= 6 ? d=3
+duplicate card j=289 sCard= 7 ? d=1
+duplicate card j=291 sCard= J C d=3
+duplicate card j=291 sCard=10 ? d=0
+duplicate card j=291 sCard= Q C d=0
+duplicate card j=291 sCard= 9 C d=3
+duplicate card j=291 sCard= 7 ? d=2
+duplicate card j=291 sCard= 6 C d=3
+duplicate card j=291 sCard= 6 C d=1
+duplicate card j=291 sCard= 4 ? d=5
+duplicate card j=291 sCard= 8 D d=5
+duplicate card j=291 sCard= 3 H d=4
+duplicate card j=291 sCard= 4 ? d=0
+duplicate card j=291 sCard= 9 ? d=3
+duplicate card j=291 sCard= J D d=2
+duplicate card j=291 sCard=10 ? d=0
+duplicate card j=291 sCard= K C d=2
+duplicate card j=291 sCard= Q ? d=2
+duplicate card j=291 sCard= 3 D d=1
+duplicate card j=291 sCard= Q H d=0
+duplicate card j=291 sCard= 4 H d=4
+duplicate card j=291 sCard= K ? d=3
+duplicate card j=291 sCard= 8 D d=2
+duplicate card j=292 sCard= J ? d=0
+duplicate card j=292 sCard= K C d=5
+duplicate card j=292 sCard= K H d=0
+duplicate card j=292 sCard= A ? d=3
+duplicate card j=292 sCard= 3 ? d=3
+duplicate card j=292 sCard= J D d=4
+duplicate card j=292 sCard= Q C d=2
+duplicate card j=292 sCard= 9 C d=2
+duplicate card j=292 sCard=10 D d=5
+duplicate card j=292 sCard= 3 ? d=3
+duplicate card j=292 sCard= A H d=3
+duplicate card j=292 sCard=10 H d=4
+duplicate card j=293 sCard= 3 H d=1
+duplicate card j=293 sCard= Q C d=4
+duplicate card j=293 sCard= A D d=2
+duplicate card j=294 sCard= A H d=5
+duplicate card j=294 sCard= 3 D d=3
+duplicate card j=294 sCard= J ? d=2
+duplicate card j=294 sCard= J D d=3
+duplicate card j=294 sCard=10 C d=0
+duplicate card j=294 sCard= Q C d=1
+duplicate card j=294 sCard= 7 D d=0
+duplicate card j=294 sCard= 5 D d=5
+duplicate card j=294 sCard= 8 D d=2
+duplicate card j=294 sCard= 2 H d=5
+duplicate card j=294 sCard= 2 H d=0
+duplicate card j=294 sCard= 8 C d=2
+duplicate card j=294 sCard= 9 H d=2
+duplicate card j=295 sCard= 5 H d=2
+duplicate card j=295 sCard= 8 C d=5
+duplicate card j=295 sCard= K D d=0
+duplicate card j=295 sCard= 4 C d=4
+duplicate card j=295 sCard= 4 D d=2
+duplicate card j=295 sCard= 4 C d=2
+duplicate card j=295 sCard= 4 D d=0
+duplicate card j=295 sCard= 2 ? d=3
+duplicate card j=296 sCard= Q ? d=1
+duplicate card j=296 sCard= 9 H d=1
+duplicate card j=296 sCard= A H d=4
+duplicate card j=296 sCard= Q D d=0
+duplicate card j=296 sCard= 2 ? d=1
+duplicate card j=296 sCard= 5 C d=3
+duplicate card j=296 sCard= K H d=3
+duplicate card j=296 sCard= 2 D d=3
+duplicate card j=296 sCard= 8 H d=2
+duplicate card j=297 sCard= 8 ? d=2
+duplicate card j=297 sCard= A D d=4
+duplicate card j=297 sCard= A C d=4
+duplicate card j=297 sCard= 5 C d=1
+duplicate card j=297 sCard= 8 H d=5
+duplicate card j=298 sCard= 7 C d=0
+duplicate card j=298 sCard= K ? d=1
+duplicate card j=298 sCard=10 D d=2
+duplicate card j=298 sCard= K H d=4
+duplicate card j=298 sCard= 4 D d=4
+duplicate card j=298 sCard=10 D d=3
+duplicate card j=298 sCard= K H d=1
+duplicate card j=298 sCard= 7 H d=0
+duplicate card j=298 sCard= 4 ? d=2
+duplicate card j=298 sCard=10 C d=3
+duplicate card j=298 sCard= 6 H d=0
+duplicate card j=298 sCard= 6 H d=1
+duplicate card j=298 sCard= 6 H d=0
+duplicate card j=298 sCard= Q D d=0
+duplicate card j=298 sCard= Q H d=0
+duplicate card j=298 sCard= 5 H d=0
+duplicate card j=298 sCard= 8 D d=2
+duplicate card j=298 sCard= A D d=5
+duplicate card j=298 sCard= 5 ? d=4
+duplicate card j=298 sCard= J D d=5
+duplicate card j=299 sCard= A D d=5
+duplicate card j=299 sCard= A D d=1
+duplicate card j=299 sCard= A ? d=1
+duplicate card j=299 sCard=10 H d=0
+duplicate card j=299 sCard=10 D d=4
+duplicate card j=299 sCard= 9 D d=1
+duplicate card j=299 sCard= K D d=3
+duplicate card j=299 sCard= Q ? d=5
+duplicate card j=299 sCard= A D d=5
+duplicate card j=299 sCard= 8 H d=3
+duplicate card j=299 sCard= 2 C d=4
+duplicate card j=299 sCard= 4 C d=2
+duplicate card j=299 sCard= 5 ? d=4
+duplicate card j=299 sCard= 3 H d=0
+duplicate card j=299 sCard= 5 C d=5
+duplicate card j=299 sCard= 7 H d=2
+duplicate card j=299 sCard= Q ? d=0
+duplicate card j=299 sCard= 5 H d=4
+duplicate card j=299 sCard=10 ? d=1
+duplicate card j=299 sCard= K H d=4
+duplicate card j=299 sCard= 3 H d=0
+duplicate card j=299 sCard= Q D d=5
+duplicate card j=299 sCard= 7 H d=2
+duplicate card j=299 sCard= 7 D d=3
+duplicate card j=299 sCard= 6 H d=0
+duplicate card j=299 sCard= 6 C d=5
+duplicate card j=299 sCard= 4 ? d=0
+duplicate card j=300 sCard= J ? d=1
+duplicate card j=300 sCard= 5 H d=0
+duplicate card j=300 sCard= 2 D d=3
+duplicate card j=300 sCard= 3 ? d=5
+duplicate card j=301 sCard= K C d=4
+duplicate card j=301 sCard= 7 D d=2
+duplicate card j=301 sCard= 5 D d=5
+duplicate card j=301 sCard= 5 C d=2
+duplicate card j=301 sCard= 2 C d=2
+duplicate card j=301 sCard= 8 ? d=3
+duplicate card j=301 sCard= 7 C d=2
+duplicate card j=301 sCard=10 D d=0
+duplicate card j=301 sCard= 9 H d=5
+duplicate card j=301 sCard= 9 H d=1
+duplicate card j=301 sCard= J ? d=0
+duplicate card j=301 sCard= 2 ? d=5
+duplicate card j=301 sCard= 9 ? d=0
+duplicate card j=301 sCard= 9 H d=5
+duplicate card j=301 sCard= A D d=2
+duplicate card j=301 sCard= J C d=4
+duplicate card j=301 sCard= J H d=0
+duplicate card j=301 sCard= A D d=2
+duplicate card j=301 sCard= 7 D d=1
+duplicate card j=301 sCard= 9 H d=5
+duplicate card j=301 sCard= 5 H d=4
+duplicate card j=301 sCard= K ? d=0
+duplicate card j=301 sCard= 8 H d=5
+duplicate card j=301 sCard= 6 C d=0
+duplicate card j=301 sCard= 7 ? d=1
+duplicate card j=301 sCard= A ? d=1
+duplicate card j=301 sCard= Q D d=1
+duplicate card j=301 sCard= J C d=4
+duplicate card j=301 sCard= K H d=1
+duplicate card j=301 sCard= 3 C d=4
+duplicate card j=301 sCard= J D d=0
+duplicate card j=301 sCard= A H d=1
+duplicate card j=301 sCard= J H d=2
+duplicate card j=301 sCard= 7 H d=5
+duplicate card j=301 sCard= 6 D d=4
+duplicate card j=301 sCard= 8 H d=3
+duplicate card j=301 sCard= Q C d=4
+duplicate card j=301 sCard= 7 C d=4
+duplicate card j=301 sCard= 6 ? d=3
+duplicate card j=301 sCard= 7 D d=4
+duplicate card j=301 sCard= 4 ? d=3
+duplicate card j=301 sCard= Q D d=1
+duplicate card j=301 sCard= 9 H d=2
+duplicate card j=301 sCard= 4 H d=2
+duplicate card j=301 sCard= 3 ? d=3
+duplicate card j=301 sCard= 9 ? d=4
+duplicate card j=301 sCard= J C d=4
+duplicate card j=301 sCard= 7 D d=2
+duplicate card j=301 sCard= 9 D d=3
+duplicate card j=301 sCard= K ? d=2
+duplicate card j=302 sCard= J H d=5
+duplicate card j=302 sCard= 8 C d=5
+duplicate card j=302 sCard= J C d=0
+duplicate card j=302 sCard= J D d=2
+duplicate card j=302 sCard= A ? d=2
+duplicate card j=302 sCard= 2 H d=1
+duplicate card j=302 sCard= J ? d=1
+duplicate card j=302 sCard= 6 C d=5
+duplicate card j=302 sCard= Q D d=1
+duplicate card j=302 sCard= 5 D d=1
+duplicate card j=302 sCard= K D d=3
+duplicate card j=302 sCard= 6 H d=3
+duplicate card j=302 sCard= A D d=5
+duplicate card j=302 sCard=10 ? d=5
+duplicate card j=302 sCard= 9 C d=4
+duplicate card j=302 sCard= 9 H d=1
+duplicate card j=302 sCard= 4 ? d=1
+duplicate card j=302 sCard= J ? d=2
+duplicate card j=302 sCard= 8 D d=3
+duplicate card j=302 sCard= A C d=4
+duplicate card j=302 sCard= 3 H d=0
+duplicate card j=302 sCard= 2 H d=5
+duplicate card j=302 sCard= 5 D d=0
+duplicate card j=302 sCard= J H d=1
+duplicate card j=303 sCard=10 C d=2
+duplicate card j=303 sCard= A H d=5
+duplicate card j=303 sCard= 9 ? d=0
+duplicate card j=303 sCard= 8 C d=3
+duplicate card j=303 sCard= 8 D d=1
+duplicate card j=303 sCard= 6 ? d=5
+duplicate card j=303 sCard= 5 ? d=2
+duplicate card j=303 sCard= 4 D d=2
+duplicate card j=303 sCard= 3 D d=1
+duplicate card j=303 sCard= 8 C d=4
+duplicate card j=303 sCard=10 D d=3
+duplicate card j=303 sCard= A C d=3
+duplicate card j=303 sCard= 9 C d=0
+duplicate card j=303 sCard= J ? d=2
+duplicate card j=303 sCard= 3 D d=0
+duplicate card j=303 sCard= Q C d=5
+duplicate card j=304 sCard= 3 D d=3
+duplicate card j=304 sCard= K ? d=4
+duplicate card j=304 sCard= 6 C d=5
+duplicate card j=304 sCard= Q C d=2
+duplicate card j=304 sCard= 7 D d=1
+duplicate card j=304 sCard= 6 ? d=5
+duplicate card j=304 sCard= 5 ? d=4
+duplicate card j=304 sCard= K H d=1
+duplicate card j=304 sCard= A ? d=1
+duplicate card j=304 sCard= 6 D d=2
+duplicate card j=304 sCard= 6 H d=5
+duplicate card j=304 sCard= 8 D d=0
+duplicate card j=304 sCard= A C d=2
+duplicate card j=304 sCard= 6 C d=2
+duplicate card j=304 sCard=10 H d=0
+duplicate card j=304 sCard= A ? d=2
+duplicate card j=304 sCard= 9 H d=2
+duplicate card j=304 sCard= 9 D d=1
+duplicate card j=304 sCard= 7 D d=4
+duplicate card j=304 sCard= A C d=1
+duplicate card j=304 sCard= K C d=0
+duplicate card j=304 sCard= 6 C d=5
+duplicate card j=304 sCard= 4 ? d=3
+duplicate card j=304 sCard= 6 C d=1
+duplicate card j=304 sCard= 7 C d=3
+duplicate card j=304 sCard= 9 H d=0
+duplicate card j=304 sCard= 3 H d=4
+duplicate card j=304 sCard= Q ? d=3
+duplicate card j=304 sCard= 4 ? d=0
+duplicate card j=304 sCard= J H d=5
+duplicate card j=304 sCard= 3 C d=4
+duplicate card j=304 sCard= 5 C d=2
+duplicate card j=304 sCard= 7 H d=3
+duplicate card j=304 sCard= 7 D d=0
+duplicate card j=304 sCard= Q D d=5
+duplicate card j=304 sCard= K H d=0
+duplicate card j=304 sCard= 6 H d=5
+duplicate card j=304 sCard= Q ? d=5
+duplicate card j=304 sCard= 6 C d=5
+duplicate card j=304 sCard= 2 D d=1
+duplicate card j=304 sCard= 6 ? d=0
+duplicate card j=304 sCard= 7 ? d=5
+duplicate card j=304 sCard= 3 D d=1
+duplicate card j=304 sCard= 7 H d=4
+duplicate card j=304 sCard= A H d=0
+duplicate card j=304 sCard= 4 D d=0
+duplicate card j=304 sCard= 3 H d=2
+duplicate card j=304 sCard= 7 H d=3
+duplicate card j=304 sCard= 9 H d=4
+duplicate card j=304 sCard= 9 C d=3
+duplicate card j=304 sCard= 4 H d=2
+duplicate card j=304 sCard= K H d=4
+duplicate card j=304 sCard= K C d=5
+duplicate card j=304 sCard= 7 ? d=2
+duplicate card j=304 sCard= 8 H d=3
+duplicate card j=304 sCard= A ? d=1
+duplicate card j=304 sCard= 9 ? d=3
+duplicate card j=304 sCard= 5 ? d=5
+duplicate card j=304 sCard= 3 H d=3
+duplicate card j=304 sCard= 2 D d=5
+duplicate card j=304 sCard= 9 C d=3
+duplicate card j=304 sCard= A ? d=2
+duplicate card j=304 sCard= 6 H d=0
+duplicate card j=304 sCard= J D d=4
+duplicate card j=304 sCard= 5 C d=4
+duplicate card j=304 sCard= 5 D d=1
+duplicate card j=304 sCard= 9 C d=3
+duplicate card j=304 sCard= K D d=4
+duplicate card j=304 sCard= 6 ? d=2
+duplicate card j=304 sCard= 2 ? d=0
+duplicate card j=304 sCard= Q D d=5
+duplicate card j=304 sCard= 4 ? d=2
+duplicate card j=304 sCard= 8 D d=4
+duplicate card j=304 sCard= 9 D d=3
+duplicate card j=304 sCard= 8 C d=2
+duplicate card j=304 sCard= 8 C d=1
+duplicate card j=304 sCard= 5 H d=2
+duplicate card j=304 sCard= 7 H d=2
+duplicate card j=304 sCard= 2 H d=3
+duplicate card j=304 sCard= 5 D d=3
+duplicate card j=304 sCard= J D d=4
+duplicate card j=304 sCard= 7 C d=0
+duplicate card j=304 sCard= J ? d=5
+duplicate card j=304 sCard= 9 ? d=2
+duplicate card j=305 sCard= 4 ? d=3
+duplicate card j=305 sCard= 9 D d=4
+duplicate card j=305 sCard=10 D d=4
+duplicate card j=305 sCard= Q ? d=4
+duplicate card j=305 sCard= Q C d=4
+duplicate card j=305 sCard= 8 ? d=4
+duplicate card j=305 sCard= Q C d=5
+duplicate card j=305 sCard= A C d=1
+duplicate card j=305 sCard= 4 C d=4
+duplicate card j=305 sCard= 5 H d=0
+duplicate card j=305 sCard= 5 D d=2
+duplicate card j=305 sCard= 3 H d=0
+duplicate card j=305 sCard= 9 H d=5
+duplicate card j=305 sCard= J C d=3
+duplicate card j=305 sCard= K D d=0
+duplicate card j=305 sCard= 7 C d=3
+duplicate card j=305 sCard= 8 C d=4
+duplicate card j=305 sCard= 7 C d=5
+duplicate card j=305 sCard= 2 H d=2
+duplicate card j=305 sCard= J ? d=4
+duplicate card j=305 sCard=10 D d=4
+duplicate card j=305 sCard= 8 H d=1
+duplicate card j=305 sCard= K H d=4
+duplicate card j=305 sCard= 3 H d=5
+duplicate card j=305 sCard= J H d=4
+duplicate card j=305 sCard= 7 C d=5
+duplicate card j=305 sCard= 3 ? d=5
+duplicate card j=305 sCard= K H d=5
+duplicate card j=305 sCard= 5 D d=4
+duplicate card j=305 sCard= Q D d=4
+duplicate card j=305 sCard= 2 H d=1
+duplicate card j=305 sCard= 7 ? d=4
+duplicate card j=305 sCard= A D d=4
+duplicate card j=305 sCard= 2 C d=5
+duplicate card j=305 sCard= 7 D d=3
+duplicate card j=305 sCard= K C d=1
+duplicate card j=305 sCard= 3 C d=1
+duplicate card j=305 sCard= 6 ? d=0
+duplicate card j=305 sCard= 3 C d=4
+duplicate card j=305 sCard= 5 C d=0
+duplicate card j=305 sCard= 6 H d=4
+duplicate card j=305 sCard=10 ? d=1
+duplicate card j=305 sCard= 6 C d=3
+duplicate card j=305 sCard= A D d=1
+duplicate card j=305 sCard= Q ? d=2
+duplicate card j=305 sCard= 8 H d=5
+duplicate card j=305 sCard= 6 C d=2
+duplicate card j=305 sCard= 8 D d=3
+duplicate card j=305 sCard= 3 ? d=4
+duplicate card j=305 sCard= 7 ? d=5
+duplicate card j=305 sCard= K D d=2
+duplicate card j=305 sCard= A ? d=2
+duplicate card j=305 sCard= 8 D d=0
+duplicate card j=305 sCard= 2 ? d=4
+duplicate card j=305 sCard= 4 ? d=1
+duplicate card j=305 sCard= Q D d=1
+duplicate card j=305 sCard=10 ? d=5
+duplicate card j=305 sCard= Q H d=5
+duplicate card j=305 sCard= 5 H d=2
+duplicate card j=305 sCard= A H d=5
+duplicate card j=305 sCard=10 H d=5
+duplicate card j=305 sCard=10 H d=1
+duplicate card j=305 sCard= 2 H d=5
+duplicate card j=305 sCard= Q ? d=3
+duplicate card j=305 sCard= 8 D d=5
+duplicate card j=305 sCard= 5 ? d=3
+duplicate card j=305 sCard= 9 H d=1
+duplicate card j=305 sCard= K D d=3
+duplicate card j=305 sCard= 8 H d=1
+duplicate card j=305 sCard= 7 ? d=2
+duplicate card j=305 sCard= A D d=0
+duplicate card j=305 sCard= J ? d=4
+duplicate card j=305 sCard= 3 D d=1
+duplicate card j=305 sCard= 3 C d=5
+duplicate card j=305 sCard= 9 ? d=3
+duplicate card j=305 sCard= Q C d=4
+duplicate card j=305 sCard= 3 H d=4
+duplicate card j=305 sCard= 9 C d=1
+duplicate card j=305 sCard= 6 D d=0
+duplicate card j=305 sCard= 9 D d=2
+duplicate card j=305 sCard= 2 ? d=0
+duplicate card j=305 sCard=10 H d=5
+duplicate card j=305 sCard= 6 ? d=0
+duplicate card j=305 sCard= 6 D d=0
+duplicate card j=305 sCard= 7 ? d=2
+duplicate card j=305 sCard= K D d=1
+duplicate card j=305 sCard= 4 D d=0
+duplicate card j=305 sCard= 2 D d=2
+duplicate card j=305 sCard= 6 ? d=3
+duplicate card j=305 sCard= Q H d=4
+duplicate card j=305 sCard= Q H d=1
+duplicate card j=305 sCard= K ? d=2
+duplicate card j=305 sCard= A C d=1
+duplicate card j=305 sCard= 6 C d=0
+duplicate card j=305 sCard= 8 ? d=1
+duplicate card j=305 sCard= 7 H d=4
+duplicate card j=305 sCard= 5 H d=4
+duplicate card j=305 sCard= 8 H d=2
+duplicate card j=305 sCard= K ? d=2
+duplicate card j=305 sCard= 8 D d=5
+duplicate card j=305 sCard= 6 C d=2
+duplicate card j=305 sCard= 3 D d=4
+duplicate card j=305 sCard= 9 C d=5
+duplicate card j=305 sCard= J C d=5
+duplicate card j=305 sCard= J D d=0
+duplicate card j=305 sCard= J D d=4
+duplicate card j=305 sCard= 3 ? d=1
+duplicate card j=305 sCard= 4 D d=3
+duplicate card j=305 sCard= A D d=1
+duplicate card j=305 sCard= 4 H d=0
+duplicate card j=305 sCard= 9 D d=2
+duplicate card j=305 sCard= 7 H d=0
+duplicate card j=305 sCard=10 H d=0
+duplicate card j=305 sCard= 9 ? d=0
+duplicate card j=307 sCard= 9 H d=2
+duplicate card j=307 sCard= Q H d=5
+duplicate card j=307 sCard= J ? d=2
+duplicate card j=307 sCard= 4 H d=3
+duplicate card j=307 sCard= 6 D d=2
+duplicate card j=307 sCard= A ? d=0
+duplicate card j=307 sCard= 9 H d=5
+duplicate card j=307 sCard=10 H d=1
+duplicate card j=307 sCard= J D d=0
+duplicate card j=307 sCard= 9 H d=4
+duplicate card j=307 sCard= 9 H d=3
+duplicate card j=307 sCard= 5 C d=5
+duplicate card j=307 sCard= 7 H d=4
+duplicate card j=307 sCard= 5 ? d=4
+duplicate card j=308 sCard= 6 H d=0
+duplicate card j=308 sCard= 5 H d=1
+duplicate card j=308 sCard= 8 ? d=2
+duplicate card j=308 sCard= 8 H d=4
+duplicate card j=308 sCard= K ? d=3
+duplicate card j=308 sCard= 3 C d=5
+duplicate card j=308 sCard= 5 H d=0
+duplicate card j=308 sCard=10 ? d=2
+duplicate card j=308 sCard= Q H d=1
+duplicate card j=308 sCard=10 D d=0
+duplicate card j=308 sCard= 2 C d=2
+duplicate card j=308 sCard= J ? d=4
+duplicate card j=308 sCard= 2 H d=1
+duplicate card j=308 sCard= 5 ? d=3
+duplicate card j=308 sCard= 3 D d=1
+duplicate card j=308 sCard= J D d=3
+duplicate card j=308 sCard= 7 C d=5
+duplicate card j=308 sCard=10 D d=0
+duplicate card j=308 sCard= K ? d=3
+duplicate card j=308 sCard= K D d=5
+duplicate card j=308 sCard= 2 C d=4
+duplicate card j=308 sCard= 6 H d=1
+duplicate card j=308 sCard= 4 D d=3
+duplicate card j=308 sCard= 3 D d=0
+duplicate card j=308 sCard= 2 ? d=1
+duplicate card j=308 sCard= J ? d=3
+duplicate card j=308 sCard= A D d=1
+duplicate card j=308 sCard= 3 D d=3
+duplicate card j=308 sCard= 9 ? d=2
+duplicate card j=308 sCard= 4 D d=1
+duplicate card j=308 sCard= Q D d=4
+duplicate card j=308 sCard= K H d=3
+duplicate card j=308 sCard= 8 C d=3
+duplicate card j=308 sCard= 8 H d=1
+duplicate card j=308 sCard= 7 D d=4
+duplicate card j=308 sCard= J ? d=1
+duplicate card j=308 sCard= 9 ? d=2
+duplicate card j=308 sCard= 4 H d=1
+duplicate card j=308 sCard= A C d=1
+duplicate card j=308 sCard= 2 H d=5
+duplicate card j=308 sCard= Q ? d=0
+duplicate card j=308 sCard= 5 D d=3
+duplicate card j=308 sCard= 6 D d=3
+duplicate card j=308 sCard= 8 C d=2
+duplicate card j=308 sCard= 6 ? d=5
+duplicate card j=308 sCard= 4 C d=2
+duplicate card j=308 sCard= J ? d=1
+duplicate card j=308 sCard= 5 ? d=2
+duplicate card j=308 sCard= 7 H d=1
+duplicate card j=308 sCard= 7 D d=0
+duplicate card j=308 sCard= 6 ? d=1
+duplicate card j=308 sCard= 8 C d=5
+duplicate card j=308 sCard= K D d=0
+duplicate card j=308 sCard= K C d=5
+duplicate card j=308 sCard= 4 H d=2
+duplicate card j=308 sCard=10 H d=5
+duplicate card j=308 sCard= K ? d=5
+duplicate card j=308 sCard= Q C d=0
+duplicate card j=308 sCard= 8 ? d=0
+duplicate card j=308 sCard= Q ? d=4
+duplicate card j=308 sCard= 9 ? d=5
+duplicate card j=308 sCard= 2 C d=2
+duplicate card j=308 sCard= 3 C d=4
+duplicate card j=308 sCard= 5 ? d=4
+duplicate card j=308 sCard= 4 H d=5
+duplicate card j=308 sCard= 6 H d=3
+duplicate card j=308 sCard= 2 D d=3
+duplicate card j=308 sCard= 3 D d=1
+duplicate card j=308 sCard= Q H d=4
+duplicate card j=308 sCard= 8 D d=1
+duplicate card j=308 sCard= 6 H d=3
+duplicate card j=308 sCard=10 C d=0
+duplicate card j=308 sCard= 3 H d=1
+duplicate card j=308 sCard= 9 ? d=0
+duplicate card j=308 sCard= 4 C d=2
+duplicate card j=308 sCard= 4 C d=1
+duplicate card j=308 sCard= 5 H d=0
+duplicate card j=308 sCard= K D d=3
+duplicate card j=308 sCard= 2 H d=4
+duplicate card j=308 sCard= Q C d=2
+duplicate card j=308 sCard= A H d=3
+duplicate card j=308 sCard= 7 ? d=2
+duplicate card j=308 sCard=10 C d=5
+duplicate card j=308 sCard= 7 ? d=1
+duplicate card j=308 sCard= 9 H d=5
+duplicate card j=308 sCard= J D d=2
+duplicate card j=308 sCard= 2 H d=4
+duplicate card j=308 sCard= 4 ? d=5
+duplicate card j=308 sCard= 7 D d=4
+duplicate card j=308 sCard= 9 H d=5
+duplicate card j=308 sCard= 9 H d=3
+duplicate card j=308 sCard= 4 C d=4
+duplicate card j=308 sCard= 3 C d=0
+duplicate card j=308 sCard= 9 H d=4
+duplicate card j=308 sCard= 8 H d=1
+duplicate card j=308 sCard= 5 D d=1
+duplicate card j=308 sCard= 5 H d=3
+duplicate card j=308 sCard= 9 D d=2
+duplicate card j=308 sCard= 6 C d=0
+duplicate card j=308 sCard= 7 ? d=2
+duplicate card j=308 sCard=10 C d=5
+duplicate card j=308 sCard= 2 ? d=0
+duplicate card j=308 sCard= 6 D d=5
+duplicate card j=308 sCard= A D d=3
+duplicate card j=308 sCard= 2 H d=4
+duplicate card j=308 sCard= 6 D d=1
+duplicate card j=308 sCard= 9 D d=4
+duplicate card j=308 sCard= 8 H d=1
+duplicate card j=308 sCard= K H d=0
+duplicate card j=308 sCard= 7 D d=5
+duplicate card j=308 sCard= Q D d=2
+duplicate card j=308 sCard= A H d=3
+duplicate card j=308 sCard= K C d=2
+duplicate card j=308 sCard= J ? d=3
+duplicate card j=308 sCard= 3 ? d=0
+duplicate card j=308 sCard= 7 C d=3
+duplicate card j=308 sCard=10 H d=1
+duplicate card j=308 sCard= Q ? d=1
+duplicate card j=308 sCard= 6 D d=3
+duplicate card j=308 sCard= Q D d=0
+duplicate card j=308 sCard= 9 H d=0
+duplicate card j=308 sCard= 8 H d=5
+duplicate card j=308 sCard= 3 ? d=4
+duplicate card j=308 sCard= 7 ? d=1
+duplicate card j=308 sCard= K C d=3
+duplicate card j=308 sCard= 3 C d=0
+duplicate card j=308 sCard= 2 C d=2
+duplicate card j=308 sCard= 2 H d=0
+duplicate card j=308 sCard=10 ? d=4
+duplicate card j=308 sCard= 6 ? d=4
+duplicate card j=308 sCard= A H d=1
+duplicate card j=308 sCard= 9 D d=2
+duplicate card j=308 sCard=10 D d=3
+duplicate card j=308 sCard= Q H d=5
+duplicate card j=308 sCard= J D d=2
+duplicate card j=308 sCard= Q D d=0
+duplicate card j=308 sCard= A ? d=2
+duplicate card j=308 sCard= 4 ? d=2
+duplicate card j=308 sCard= 2 C d=1
+duplicate card j=308 sCard=10 C d=0
+duplicate card j=308 sCard= 4 H d=1
+duplicate card j=308 sCard= 3 D d=5
+duplicate card j=308 sCard= 2 D d=4
+duplicate card j=308 sCard= Q H d=0
+duplicate card j=308 sCard= 4 C d=4
+duplicate card j=308 sCard= Q H d=1
+duplicate card j=308 sCard= 4 H d=4
+duplicate card j=308 sCard= 5 H d=3
+duplicate card j=308 sCard= 9 H d=4
+duplicate card j=308 sCard= 3 D d=1
+duplicate card j=308 sCard= K ? d=2
+duplicate card j=308 sCard= 8 ? d=3
+duplicate card j=308 sCard= 6 ? d=5
+duplicate card j=308 sCard= 3 ? d=3
+duplicate card j=308 sCard= 7 H d=2
+duplicate card j=308 sCard= 3 ? d=3
+duplicate card j=308 sCard= 6 D d=4
+duplicate card j=308 sCard= 7 D d=1
+duplicate card j=308 sCard= 6 C d=3
+duplicate card j=309 sCard= 6 ? d=5
+duplicate card j=309 sCard= 3 D d=4
+duplicate card j=309 sCard= 3 ? d=4
+duplicate card j=309 sCard= 7 C d=3
+duplicate card j=309 sCard= 6 C d=3
+duplicate card j=309 sCard= 4 H d=2
+duplicate card j=309 sCard= J ? d=4
+duplicate card j=309 sCard= K ? d=0
+duplicate card j=309 sCard= 8 D d=5
+duplicate card j=309 sCard= 6 C d=2
+duplicate card j=309 sCard= 3 ? d=3
+duplicate card j=309 sCard=10 H d=5
+duplicate card j=309 sCard= 2 ? d=5
+duplicate card j=309 sCard= J C d=0
+duplicate card j=309 sCard= 4 D d=5
+duplicate card j=309 sCard= K H d=2
+duplicate card j=309 sCard= A H d=0
+duplicate card j=309 sCard= 4 ? d=5
+duplicate card j=309 sCard= 8 D d=1
+duplicate card j=309 sCard= 7 H d=5
+duplicate card j=309 sCard= J ? d=5
+duplicate card j=309 sCard= A D d=1
+duplicate card j=309 sCard= 8 ? d=3
+duplicate card j=309 sCard= A H d=1
+duplicate card j=309 sCard= 4 ? d=0
+duplicate card j=309 sCard= 5 H d=1
+duplicate card j=309 sCard= 5 H d=2
+duplicate card j=309 sCard= J D d=3
+duplicate card j=309 sCard= 9 C d=1
+duplicate card j=309 sCard= 6 C d=1
+duplicate card j=309 sCard= 7 H d=3
+duplicate card j=309 sCard= Q H d=5
+duplicate card j=309 sCard= 8 D d=3
+duplicate card j=309 sCard= A C d=0
+duplicate card j=309 sCard= K D d=4
+duplicate card j=309 sCard= J C d=5
+duplicate card j=309 sCard= 5 H d=1
+duplicate card j=309 sCard= 5 ? d=4
+duplicate card j=309 sCard= J ? d=1
+duplicate card j=309 sCard= 4 ? d=3
+duplicate card j=309 sCard= 2 D d=5
+duplicate card j=309 sCard= K D d=5
+duplicate card j=309 sCard= A H d=4
+duplicate card j=309 sCard= Q C d=2
+duplicate card j=309 sCard= 7 D d=1
+duplicate card j=309 sCard= 3 H d=3
+duplicate card j=309 sCard= A C d=5
+duplicate card j=309 sCard= 8 ? d=1
+duplicate card j=309 sCard= J H d=3
+duplicate card j=309 sCard= 5 ? d=2
+duplicate card j=309 sCard=10 D d=4
+duplicate card j=309 sCard= 7 D d=0
+duplicate card j=309 sCard= K D d=0
+duplicate card j=309 sCard= 6 H d=4
+duplicate card j=309 sCard= J H d=5
+duplicate card j=309 sCard= 3 C d=4
+duplicate card j=309 sCard= 5 ? d=0
+duplicate card j=309 sCard= Q H d=4
+duplicate card j=309 sCard=10 ? d=2
+duplicate card j=309 sCard= 2 ? d=2
+duplicate card j=309 sCard= J H d=3
+duplicate card j=309 sCard= Q D d=3
+duplicate card j=309 sCard= 7 C d=2
+duplicate card j=309 sCard= 2 ? d=5
+duplicate card j=309 sCard= K ? d=2
+duplicate card j=309 sCard= 6 H d=2
+duplicate card j=309 sCard= 5 D d=2
+duplicate card j=309 sCard= 8 ? d=1
+duplicate card j=309 sCard= 4 ? d=0
+duplicate card j=309 sCard= A C d=2
+duplicate card j=309 sCard= 4 H d=5
+duplicate card j=309 sCard= 6 D d=1
+duplicate card j=309 sCard= 4 ? d=5
+duplicate card j=309 sCard= Q D d=5
+duplicate card j=309 sCard=10 ? d=5
+duplicate card j=309 sCard= A ? d=1
+duplicate card j=309 sCard= 2 H d=0
+duplicate card j=309 sCard= 6 ? d=3
+duplicate card j=309 sCard= 3 H d=4
+duplicate card j=309 sCard= 6 C d=2
+duplicate card j=309 sCard= 8 ? d=2
+duplicate card j=309 sCard= A ? d=5
+duplicate card j=309 sCard= 7 C d=2
+duplicate card j=309 sCard= 4 C d=0
+duplicate card j=309 sCard= 4 D d=0
+duplicate card j=309 sCard= 6 ? d=3
+duplicate card j=309 sCard= 3 D d=1
+duplicate card j=309 sCard=10 D d=3
+duplicate card j=309 sCard= J C d=0
+duplicate card j=309 sCard= A H d=2
+duplicate card j=309 sCard= 9 ? d=2
+duplicate card j=309 sCard= A D d=3
+duplicate card j=309 sCard= 2 H d=0
+duplicate card j=309 sCard= 3 H d=2
+duplicate card j=309 sCard= Q ? d=5
+duplicate card j=309 sCard= 7 C d=0
+duplicate card j=309 sCard= 2 C d=5
+duplicate card j=309 sCard= 8 ? d=1
+duplicate card j=309 sCard= A ? d=4
+duplicate card j=309 sCard= 8 ? d=2
+duplicate card j=309 sCard= 9 H d=1
+duplicate card j=309 sCard= 6 D d=1
+duplicate card j=309 sCard= 7 D d=4
+duplicate card j=309 sCard= K ? d=3
+duplicate card j=309 sCard= 3 D d=4
+duplicate card j=309 sCard= A C d=0
+duplicate card j=309 sCard= 8 C d=5
+duplicate card j=309 sCard=10 C d=5
+duplicate card j=309 sCard= A D d=0
+duplicate card j=309 sCard= Q C d=2
+duplicate card j=309 sCard= 6 C d=1
+duplicate card j=309 sCard= 2 C d=4
+duplicate card j=309 sCard= K C d=2
+duplicate card j=309 sCard= K H d=0
+duplicate card j=309 sCard= J C d=5
+duplicate card j=309 sCard= A D d=5
+duplicate card j=309 sCard= 6 ? d=0
+duplicate card j=309 sCard= 7 ? d=4
+duplicate card j=309 sCard= 9 ? d=1
+duplicate card j=309 sCard= K H d=5
+duplicate card j=309 sCard= 2 C d=0
+duplicate card j=309 sCard= 6 ? d=4
+duplicate card j=309 sCard= 9 ? d=5
+duplicate card j=309 sCard= K D d=0
+duplicate card j=309 sCard= A C d=5
+duplicate card j=309 sCard= K D d=5
+duplicate card j=309 sCard= J D d=1
+duplicate card j=309 sCard= 6 D d=5
+duplicate card j=309 sCard= 4 D d=4
+duplicate card j=309 sCard= J C d=3
+duplicate card j=309 sCard= Q D d=2
+duplicate card j=309 sCard= A H d=0
+duplicate card j=309 sCard= 9 D d=0
+duplicate card j=309 sCard= 8 D d=4
+duplicate card j=309 sCard= 6 D d=0
+duplicate card j=309 sCard= 6 H d=0
+duplicate card j=309 sCard= 4 C d=1
+duplicate card j=309 sCard= 9 D d=0
+duplicate card j=309 sCard= 3 H d=0
+duplicate card j=309 sCard= 2 H d=4
+duplicate card j=309 sCard= K D d=4
+duplicate card j=309 sCard= 5 D d=5
+duplicate card j=309 sCard= 2 H d=3
+duplicate card j=309 sCard= J ? d=2
+duplicate card j=309 sCard= 8 H d=4
+duplicate card j=309 sCard= J D d=2
+duplicate card j=309 sCard= 4 H d=5
+duplicate card j=309 sCard= J H d=4
+duplicate card j=309 sCard= 7 D d=2
+duplicate card j=309 sCard=10 ? d=0
+duplicate card j=309 sCard= 5 H d=1
+duplicate card j=309 sCard= 6 ? d=0
+duplicate card j=309 sCard= Q D d=5
+duplicate card j=309 sCard= A C d=0
+duplicate card j=309 sCard= J C d=3
+duplicate card j=309 sCard= 7 H d=2
+duplicate card j=309 sCard= 8 H d=4
+duplicate card j=309 sCard= J D d=5
+duplicate card j=309 sCard= A C d=0
+duplicate card j=309 sCard= 7 C d=5
+duplicate card j=309 sCard= Q ? d=0
+duplicate card j=309 sCard= 7 ? d=5
+duplicate card j=309 sCard= J C d=4
+duplicate card j=309 sCard= 7 ? d=1
+duplicate card j=309 sCard= J D d=0
+duplicate card j=309 sCard= 5 D d=2
+duplicate card j=309 sCard= 4 D d=2
+duplicate card j=309 sCard= 2 H d=1
+duplicate card j=309 sCard= 2 D d=3
+duplicate card j=309 sCard= Q C d=0
+duplicate card j=309 sCard= 4 H d=4
+duplicate card j=309 sCard= A D d=2
+duplicate card j=309 sCard= K D d=4
+duplicate card j=309 sCard= 6 H d=3
+duplicate card j=309 sCard= 3 H d=0
+duplicate card j=309 sCard= 2 H d=4
+duplicate card j=309 sCard= J C d=3
+duplicate card j=309 sCard= 2 ? d=5
+duplicate card j=309 sCard= 2 ? d=5
+duplicate card j=309 sCard= K ? d=1
+duplicate card j=309 sCard= 3 C d=3
+duplicate card j=309 sCard= 6 D d=2
+duplicate card j=309 sCard= K H d=4
+duplicate card j=309 sCard= 5 C d=5
+duplicate card j=309 sCard= 8 ? d=5
+duplicate card j=309 sCard= 6 ? d=3
+duplicate card j=309 sCard= 9 H d=3
+duplicate card j=309 sCard= Q H d=0
+duplicate card j=309 sCard= 2 H d=2
+duplicate card j=309 sCard= 6 C d=2
+duplicate card j=309 sCard= 2 C d=2
+duplicate card j=309 sCard= 2 ? d=5
+duplicate card j=309 sCard= J ? d=3
+duplicate card j=309 sCard= 2 C d=0
+duplicate card j=309 sCard= 6 D d=3
+duplicate card j=309 sCard=10 H d=3
+duplicate card j=309 sCard= 9 C d=4
+duplicate card j=309 sCard= 3 H d=5
+duplicate card j=309 sCard= 9 C d=2
+duplicate card j=309 sCard= 3 C d=3
+duplicate card j=309 sCard= 4 C d=0
+duplicate card j=309 sCard= 7 ? d=2
+duplicate card j=309 sCard= K ? d=4
+duplicate card j=309 sCard= J ? d=4
+duplicate card j=309 sCard= 3 H d=3
+duplicate card j=309 sCard= 4 C d=3
+duplicate card j=309 sCard= A D d=5
+duplicate card j=309 sCard= 9 ? d=4
+duplicate card j=309 sCard= 3 H d=4
+duplicate card j=309 sCard= 8 ? d=2
+duplicate card j=309 sCard= 2 D d=1
+duplicate card j=309 sCard=10 ? d=5
+duplicate card j=309 sCard= J H d=2
+duplicate card j=309 sCard= A D d=1
+duplicate card j=309 sCard= J H d=5
+duplicate card j=309 sCard= J H d=5
+duplicate card j=309 sCard= Q C d=0
+duplicate card j=309 sCard= J C d=0
+duplicate card j=309 sCard= 8 C d=1
+duplicate card j=309 sCard= 8 C d=4
+duplicate card j=309 sCard= J D d=5
+duplicate card j=309 sCard= Q ? d=5
+duplicate card j=309 sCard= K C d=2
+duplicate card j=309 sCard= J D d=3
+duplicate card j=309 sCard= Q C d=0
+duplicate card j=309 sCard= 5 C d=5
+duplicate card j=309 sCard= 6 ? d=0
+duplicate card j=309 sCard= K C d=2
+duplicate card j=309 sCard= 7 D d=0
+duplicate card j=309 sCard= K C d=2
+duplicate card j=309 sCard=10 H d=5
+duplicate card j=309 sCard= A ? d=4
+duplicate card j=309 sCard= 8 D d=0
+duplicate card j=309 sCard= 6 C d=4
+duplicate card j=309 sCard= 7 H d=3
+duplicate card j=309 sCard= 7 D d=4
+duplicate card j=310 sCard= 9 ? d=2
+duplicate card j=310 sCard= J D d=1
+duplicate card j=310 sCard=10 ? d=5
+duplicate card j=310 sCard=10 D d=2
+duplicate card j=310 sCard= A H d=4
+duplicate card j=310 sCard= 8 D d=2
+duplicate card j=310 sCard=10 C d=4
+duplicate card j=310 sCard= 7 H d=1
+duplicate card j=310 sCard= 9 C d=2
+duplicate card j=310 sCard= A D d=3
+duplicate card j=310 sCard=10 C d=2
+duplicate card j=310 sCard= A C d=3
+duplicate card j=310 sCard= 7 ? d=3
+duplicate card j=310 sCard= 3 H d=5
+duplicate card j=310 sCard= 6 D d=4
+duplicate card j=310 sCard=10 ? d=4
+duplicate card j=310 sCard= Q C d=5
+duplicate card j=310 sCard= 5 D d=3
+duplicate card j=310 sCard= 3 C d=5
+duplicate card j=310 sCard= 5 C d=2
+duplicate card j=310 sCard= 4 ? d=3
+duplicate card j=310 sCard= 9 C d=3
+duplicate card j=310 sCard= 3 C d=1
+duplicate card j=310 sCard= 9 C d=4
+duplicate card j=310 sCard=10 ? d=0
+duplicate card j=310 sCard= K D d=0
+duplicate card j=310 sCard= 8 H d=5
+duplicate card j=310 sCard= A ? d=0
+duplicate card j=310 sCard= 8 C d=0
+duplicate card j=310 sCard= 5 ? d=1
+duplicate card j=310 sCard= 3 D d=2
+duplicate card j=310 sCard= K D d=3
+duplicate card j=310 sCard=10 D d=0
+duplicate card j=310 sCard= 5 C d=0
+duplicate card j=310 sCard= 6 C d=3
+duplicate card j=310 sCard= Q H d=1
+duplicate card j=310 sCard=10 H d=1
+duplicate card j=310 sCard= 8 D d=0
+duplicate card j=310 sCard= Q H d=2
+duplicate card j=310 sCard= 7 ? d=2
+duplicate card j=310 sCard= A D d=1
+duplicate card j=310 sCard= 7 D d=0
+duplicate card j=310 sCard= 8 C d=5
+duplicate card j=310 sCard= 7 C d=2
+duplicate card j=310 sCard= 6 D d=0
+duplicate card j=310 sCard=10 H d=2
+duplicate card j=310 sCard= 3 ? d=1
+duplicate card j=310 sCard= J H d=2
+duplicate card j=310 sCard= J H d=5
+duplicate card j=310 sCard= K C d=1
+duplicate card j=310 sCard= 8 H d=4
+duplicate card j=310 sCard= K ? d=0
+duplicate card j=310 sCard= 5 ? d=4
+duplicate card j=310 sCard= J C d=0
+duplicate card j=310 sCard= Q H d=0
+duplicate card j=310 sCard= J D d=2
+duplicate card j=310 sCard= 6 ? d=2
+duplicate card j=310 sCard= 4 D d=3
+duplicate card j=310 sCard= J H d=3
+duplicate card j=310 sCard= 3 ? d=5
+duplicate card j=310 sCard=10 C d=2
+duplicate card j=310 sCard= 6 D d=4
+duplicate card j=310 sCard= 2 ? d=1
+duplicate card j=310 sCard=10 H d=3
+duplicate card j=310 sCard= 3 ? d=0
+duplicate card j=310 sCard= 7 H d=0
+duplicate card j=310 sCard= 5 D d=4
+duplicate card j=310 sCard=10 H d=0
+duplicate card j=310 sCard= 5 ? d=2
+duplicate card j=310 sCard= Q D d=3
+duplicate card j=310 sCard= K H d=1
+duplicate card j=310 sCard= J D d=1
+duplicate card j=310 sCard= J ? d=5
+duplicate card j=310 sCard= A ? d=2
+duplicate card j=310 sCard= 4 C d=3
+duplicate card j=310 sCard=10 C d=3
+duplicate card j=310 sCard= 9 ? d=0
+duplicate card j=310 sCard=10 ? d=1
+duplicate card j=310 sCard= 6 D d=0
+duplicate card j=310 sCard= 8 H d=1
+duplicate card j=310 sCard= 3 ? d=2
+duplicate card j=310 sCard= 5 H d=5
+duplicate card j=310 sCard= A ? d=4
+duplicate card j=310 sCard= 8 D d=0
+duplicate card j=310 sCard= 2 D d=5
+duplicate card j=310 sCard= 7 ? d=5
+duplicate card j=310 sCard= 4 D d=0
+duplicate card j=310 sCard=10 H d=0
+duplicate card j=310 sCard= 8 D d=1
+duplicate card j=310 sCard= 8 D d=5
+duplicate card j=310 sCard= 9 ? d=0
+duplicate card j=310 sCard= Q H d=4
+duplicate card j=310 sCard= J C d=1
+duplicate card j=310 sCard= 8 H d=0
+duplicate card j=310 sCard= 9 C d=1
+duplicate card j=310 sCard= 7 C d=1
+duplicate card j=310 sCard= K ? d=1
+duplicate card j=310 sCard= 3 D d=2
+duplicate card j=310 sCard= 5 C d=4
+duplicate card j=310 sCard= 4 D d=1
+duplicate card j=310 sCard= Q H d=2
+duplicate card j=310 sCard=10 ? d=0
+duplicate card j=310 sCard= 2 ? d=5
+duplicate card j=310 sCard= 4 C d=0
+duplicate card j=310 sCard=10 D d=5
+duplicate card j=310 sCard= 6 H d=4
+duplicate card j=310 sCard= K D d=0
+duplicate card j=310 sCard= Q C d=5
+duplicate card j=310 sCard= 8 ? d=5
+duplicate card j=310 sCard= 5 ? d=4
+duplicate card j=310 sCard= 2 D d=4
+duplicate card j=310 sCard=10 D d=5
+duplicate card j=310 sCard= 5 D d=4
+duplicate card j=310 sCard= 4 H d=2
+duplicate card j=310 sCard= 3 ? d=1
+duplicate card j=310 sCard= K C d=2
+duplicate card j=310 sCard= 8 D d=0
+duplicate card j=310 sCard= J H d=5
+duplicate card j=310 sCard= 5 ? d=3
+duplicate card j=310 sCard=10 ? d=4
+duplicate card j=310 sCard= 5 D d=1
+duplicate card j=310 sCard= 5 H d=3
+duplicate card j=310 sCard= 5 D d=4
+duplicate card j=310 sCard= 4 C d=3
+duplicate card j=310 sCard= A H d=5
+duplicate card j=310 sCard= J ? d=4
+duplicate card j=310 sCard= 9 D d=0
+duplicate card j=310 sCard= 6 D d=3
+duplicate card j=310 sCard= 4 H d=4
+duplicate card j=310 sCard=10 D d=3
+duplicate card j=310 sCard= 7 D d=5
+duplicate card j=310 sCard= 5 ? d=3
+duplicate card j=310 sCard= 7 C d=3
+duplicate card j=310 sCard= K D d=0
+duplicate card j=310 sCard= 2 C d=1
+duplicate card j=310 sCard= 6 ? d=0
+duplicate card j=310 sCard= Q C d=2
+duplicate card j=310 sCard= K H d=1
+duplicate card j=310 sCard= J ? d=3
+duplicate card j=310 sCard= A H d=1
+duplicate card j=310 sCard= 3 ? d=0
+duplicate card j=310 sCard= 8 D d=1
+duplicate card j=310 sCard= 9 C d=2
+duplicate card j=310 sCard= 7 H d=2
+duplicate card j=310 sCard= 3 C d=0
+duplicate card j=310 sCard= J D d=4
+duplicate card j=310 sCard=10 D d=5
+duplicate card j=310 sCard= 2 ? d=4
+duplicate card j=310 sCard= 3 D d=3
+duplicate card j=310 sCard= Q ? d=3
+duplicate card j=310 sCard= 8 ? d=1
+duplicate card j=310 sCard= J D d=2
+duplicate card j=310 sCard= J ? d=3
+duplicate card j=310 sCard= 5 ? d=1
+duplicate card j=310 sCard= 4 D d=2
+duplicate card j=310 sCard= Q D d=3
+duplicate card j=310 sCard= K C d=2
+duplicate card j=310 sCard= 9 D d=3
+duplicate card j=310 sCard= 7 H d=0
+duplicate card j=310 sCard= 8 D d=5
+duplicate card j=310 sCard= A H d=0
+duplicate card j=310 sCard= K H d=1
+duplicate card j=310 sCard= J C d=1
+duplicate card j=310 sCard= 6 H d=0
+duplicate card j=310 sCard= Q ? d=1
+duplicate card j=310 sCard= 3 C d=3
+duplicate card j=310 sCard= 9 D d=4
+duplicate card j=310 sCard= 2 C d=2
+duplicate card j=310 sCard= 9 C d=5
+duplicate card j=310 sCard= J H d=3
+duplicate card j=310 sCard= 7 D d=5
+duplicate card j=310 sCard= J H d=0
+duplicate card j=310 sCard= J ? d=1
+duplicate card j=310 sCard= 3 D d=1
+duplicate card j=310 sCard= 4 C d=1
+duplicate card j=310 sCard=10 D d=2
+duplicate card j=310 sCard= A ? d=1
+duplicate card j=310 sCard= 5 D d=5
+duplicate card j=310 sCard= 3 C d=0
+duplicate card j=310 sCard= 9 H d=2
+duplicate card j=310 sCard= 2 H d=0
+duplicate card j=310 sCard= 8 H d=5
+duplicate card j=310 sCard= 7 ? d=5
+duplicate card j=310 sCard= 2 D d=5
+duplicate card j=310 sCard= 9 C d=2
+duplicate card j=310 sCard= A D d=5
+duplicate card j=310 sCard= Q H d=4
+duplicate card j=310 sCard= 2 C d=2
+duplicate card j=310 sCard= Q D d=0
+duplicate card j=310 sCard= 3 ? d=1
+duplicate card j=310 sCard= A H d=2
+duplicate card j=310 sCard= 4 C d=3
+duplicate card j=310 sCard= 3 H d=5
+duplicate card j=310 sCard= K H d=1
+duplicate card j=310 sCard= 3 H d=4
+duplicate card j=310 sCard=10 ? d=1
+duplicate card j=310 sCard=10 D d=3
+duplicate card j=310 sCard= 4 H d=3
+duplicate card j=310 sCard= 8 D d=0
+duplicate card j=310 sCard= K C d=4
+duplicate card j=310 sCard=10 D d=2
+duplicate card j=310 sCard= K ? d=2
+duplicate card j=310 sCard= 4 C d=3
+duplicate card j=310 sCard= 2 C d=1
+duplicate card j=310 sCard= A C d=4
+duplicate card j=310 sCard= Q ? d=0
+duplicate card j=310 sCard= K C d=2
+duplicate card j=310 sCard= 4 H d=1
+duplicate card j=310 sCard= Q ? d=2
+duplicate card j=310 sCard= Q D d=4
+duplicate card j=310 sCard= J H d=4
+duplicate card j=310 sCard= 4 H d=1
+duplicate card j=310 sCard= 5 H d=5
+duplicate card j=310 sCard= 2 H d=2
+duplicate card j=310 sCard= 5 D d=2
+duplicate card j=310 sCard= 6 ? d=0
+duplicate card j=310 sCard= 7 ? d=5
+duplicate card j=310 sCard= J C d=0
+duplicate card j=310 sCard= 3 H d=4
+duplicate card j=310 sCard= Q H d=3
+duplicate card j=310 sCard= A H d=1
+duplicate card j=310 sCard= A C d=2
+duplicate card j=310 sCard= A D d=2
+duplicate card j=310 sCard= Q ? d=3
+duplicate card j=310 sCard= 2 C d=0
+duplicate card j=310 sCard= 9 C d=0
+duplicate card j=310 sCard= 2 C d=2
+duplicate card j=310 sCard= 5 D d=0
+duplicate card j=310 sCard= 7 ? d=0
+duplicate card j=311 sCard= K H d=3
+duplicate card j=311 sCard= 4 H d=1
+duplicate card j=311 sCard= 4 H d=4
+duplicate card j=311 sCard=10 D d=4
+duplicate card j=311 sCard= 5 H d=1
+duplicate card j=311 sCard= 9 D d=0
+duplicate card j=311 sCard= 9 H d=3
+duplicate card j=311 sCard= J C d=1
+duplicate card j=311 sCard= 5 ? d=5
+duplicate card j=311 sCard= J ? d=5
+duplicate card j=311 sCard=10 H d=2
+duplicate card j=311 sCard= J H d=2
+duplicate card j=311 sCard= Q ? d=3
+duplicate card j=311 sCard= 3 ? d=0
+duplicate card j=311 sCard=10 C d=5
+duplicate card j=311 sCard= 3 C d=4
+duplicate card j=311 sCard= A D d=1
+duplicate card j=311 sCard= Q D d=3
+duplicate card j=311 sCard= 5 D d=3
+duplicate card j=311 sCard= 7 D d=5
+duplicate card j=311 sCard= J ? d=2
+duplicate card j=311 sCard= 3 D d=4
+duplicate card j=311 sCard= 3 D d=3
+duplicate card j=311 sCard= 6 H d=3
+duplicate card j=311 sCard= 2 ? d=2
+duplicate card j=311 sCard= 8 H d=5
+duplicate card j=311 sCard= 3 C d=1
+duplicate card j=311 sCard= A D d=4
+duplicate card j=311 sCard= A D d=1
+duplicate card j=311 sCard=10 H d=4
+duplicate card j=311 sCard=10 D d=2
+duplicate card j=311 sCard= 3 H d=5
+duplicate card j=311 sCard= 5 C d=3
+duplicate card j=311 sCard= 2 C d=2
+duplicate card j=311 sCard= 4 D d=0
+duplicate card j=311 sCard= J H d=5
+duplicate card j=311 sCard= 5 ? d=2
+duplicate card j=311 sCard= 7 C d=3
+duplicate card j=311 sCard= 7 H d=5
+duplicate card j=311 sCard= 9 H d=2
+duplicate card j=311 sCard= Q H d=4
+duplicate card j=311 sCard= J H d=2
+duplicate card j=311 sCard= Q ? d=3
+duplicate card j=311 sCard=10 ? d=3
+duplicate card j=311 sCard= K D d=1
+duplicate card j=311 sCard= 2 ? d=0
+duplicate card j=311 sCard= K ? d=0
+duplicate card j=311 sCard= 5 H d=5
+duplicate card j=311 sCard= 6 ? d=5
+duplicate card j=311 sCard= 7 ? d=3
+duplicate card j=311 sCard= 9 C d=1
+duplicate card j=311 sCard= 6 D d=2
+duplicate card j=311 sCard= 8 D d=1
+duplicate card j=311 sCard= 3 H d=2
+duplicate card j=311 sCard= A C d=2
+duplicate card j=311 sCard= 5 D d=3
+duplicate card j=311 sCard= 8 C d=3
+duplicate card j=311 sCard= Q H d=5
+duplicate card j=311 sCard= A ? d=2
+duplicate card j=311 sCard= 5 C d=5
+duplicate card j=311 sCard= 9 C d=1
+duplicate card j=311 sCard=10 D d=1
+duplicate card j=311 sCard=10 ? d=0
+duplicate card j=311 sCard= 9 C d=0
+duplicate card j=311 sCard= 7 H d=0
+duplicate card j=311 sCard= 2 C d=5
+duplicate card j=311 sCard=10 D d=5
+duplicate card j=311 sCard= 4 D d=5
+duplicate card j=311 sCard= Q C d=1
+duplicate card j=311 sCard= 3 C d=5
+duplicate card j=311 sCard= 7 ? d=5
+duplicate card j=311 sCard= 8 ? d=5
+duplicate card j=311 sCard= Q ? d=0
+duplicate card j=311 sCard= Q ? d=0
+duplicate card j=311 sCard= 7 D d=0
+duplicate card j=311 sCard= 6 H d=2
+duplicate card j=311 sCard= 4 C d=2
+duplicate card j=311 sCard= 4 D d=4
+duplicate card j=311 sCard= 9 D d=0
+duplicate card j=311 sCard= 7 ? d=2
+duplicate card j=311 sCard= 3 C d=5
+duplicate card j=311 sCard= Q ? d=0
+duplicate card j=311 sCard= Q ? d=5
+duplicate card j=311 sCard= J H d=3
+duplicate card j=311 sCard= 3 H d=4
+duplicate card j=311 sCard= 8 C d=2
+duplicate card j=311 sCard= J ? d=5
+duplicate card j=311 sCard= 5 D d=5
+duplicate card j=311 sCard= 5 D d=1
+duplicate card j=311 sCard= 5 C d=5
+duplicate card j=311 sCard= 3 ? d=1
+duplicate card j=311 sCard= Q ? d=2
+duplicate card j=311 sCard= Q C d=2
+duplicate card j=311 sCard= A C d=2
+duplicate card j=311 sCard=10 ? d=4
+duplicate card j=311 sCard=10 ? d=0
+duplicate card j=311 sCard= 7 ? d=1
+duplicate card j=311 sCard= Q ? d=1
+duplicate card j=311 sCard= 3 ? d=2
+duplicate card j=311 sCard= 2 ? d=1
+duplicate card j=311 sCard= 7 D d=2
+duplicate card j=311 sCard= A C d=4
+duplicate card j=311 sCard=10 D d=3
+duplicate card j=311 sCard= 9 ? d=5
+duplicate card j=311 sCard= 9 H d=1
+duplicate card j=311 sCard= J D d=2
+duplicate card j=311 sCard= 5 ? d=4
+duplicate card j=311 sCard= 6 ? d=0
+duplicate card j=311 sCard= 6 ? d=4
+duplicate card j=311 sCard= 5 D d=3
+duplicate card j=311 sCard= 4 D d=1
+duplicate card j=311 sCard= 9 D d=3
+duplicate card j=311 sCard= K H d=2
+duplicate card j=311 sCard= 8 ? d=3
+duplicate card j=311 sCard= 6 H d=0
+duplicate card j=311 sCard= 4 D d=3
+duplicate card j=311 sCard= 6 H d=2
+duplicate card j=311 sCard= 5 H d=1
+duplicate card j=311 sCard= A D d=4
+duplicate card j=311 sCard= K ? d=2
+duplicate card j=311 sCard= J D d=0
+duplicate card j=311 sCard= 4 H d=4
+duplicate card j=311 sCard= Q ? d=0
+duplicate card j=311 sCard= Q H d=0
+duplicate card j=311 sCard= 7 ? d=0
+duplicate card j=311 sCard= 2 ? d=0
+duplicate card j=311 sCard= 5 ? d=5
+duplicate card j=311 sCard= 2 C d=5
+duplicate card j=311 sCard= 2 ? d=0
+duplicate card j=311 sCard=10 H d=2
+duplicate card j=311 sCard= 5 D d=3
+duplicate card j=311 sCard= 8 ? d=3
+duplicate card j=311 sCard= K H d=0
+duplicate card j=311 sCard= 7 ? d=4
+duplicate card j=311 sCard= 8 ? d=3
+duplicate card j=311 sCard= 9 D d=4
+duplicate card j=311 sCard= A C d=4
+duplicate card j=311 sCard=10 D d=5
+duplicate card j=311 sCard= 2 ? d=2
+duplicate card j=311 sCard= A H d=5
+duplicate card j=311 sCard= J C d=5
+duplicate card j=311 sCard= K D d=1
+duplicate card j=311 sCard= 3 C d=1
+duplicate card j=311 sCard= 3 ? d=5
+duplicate card j=311 sCard= 7 D d=5
+duplicate card j=311 sCard= 9 H d=4
+duplicate card j=311 sCard= A H d=3
+duplicate card j=311 sCard= 7 H d=3
+duplicate card j=311 sCard= 5 D d=5
+duplicate card j=311 sCard= A C d=2
+duplicate card j=311 sCard= 5 ? d=5
+duplicate card j=311 sCard= 5 ? d=3
+duplicate card j=311 sCard= 6 ? d=1
+duplicate card j=311 sCard= A ? d=4
+duplicate card j=311 sCard=10 ? d=0
+duplicate card j=311 sCard= Q C d=1
+duplicate card j=311 sCard= 6 H d=1
+duplicate card j=311 sCard= 2 ? d=4
+duplicate card j=311 sCard= K D d=5
+duplicate card j=311 sCard= K D d=4
+duplicate card j=311 sCard= K D d=0
+duplicate card j=311 sCard= 9 ? d=2
+duplicate card j=311 sCard= J D d=1
+duplicate card j=311 sCard= K D d=4
+duplicate card j=311 sCard= 6 C d=4
+duplicate card j=311 sCard= A H d=2
+duplicate card j=311 sCard= 8 D d=1
+duplicate card j=311 sCard= Q ? d=1
+duplicate card j=311 sCard= 2 H d=5
+duplicate card j=311 sCard=10 D d=3
+duplicate card j=311 sCard= 2 D d=1
+duplicate card j=311 sCard= 8 H d=5
+duplicate card j=311 sCard= 8 H d=1
+duplicate card j=311 sCard= J C d=5
+duplicate card j=311 sCard= K ? d=1
+duplicate card j=311 sCard= J D d=2
+duplicate card j=311 sCard= 9 H d=3
+duplicate card j=311 sCard= 6 C d=4
+duplicate card j=311 sCard= 6 C d=2
+duplicate card j=311 sCard= 8 C d=3
+duplicate card j=311 sCard= 8 C d=0
+duplicate card j=311 sCard= J C d=0
+duplicate card j=311 sCard= J C d=3
+duplicate card j=311 sCard= J D d=4
+duplicate card j=311 sCard= A C d=0
+duplicate card j=311 sCard= Q ? d=0
+duplicate card j=311 sCard= Q D d=3
+duplicate card j=311 sCard= 9 H d=5
+duplicate card j=311 sCard= Q H d=3
+duplicate card j=311 sCard= 2 D d=1
+duplicate card j=311 sCard= 3 C d=3
+duplicate card j=311 sCard= 3 H d=1
+duplicate card j=311 sCard= 2 H d=1
+duplicate card j=311 sCard= 4 H d=0
+duplicate card j=311 sCard= 6 H d=3
+duplicate card j=311 sCard= K ? d=3
+duplicate card j=311 sCard= 9 D d=0
+duplicate card j=311 sCard= 9 ? d=2
+duplicate card j=311 sCard=10 H d=1
+duplicate card j=311 sCard= 4 H d=1
+duplicate card j=311 sCard=10 C d=2
+duplicate card j=311 sCard= 9 H d=3
+duplicate card j=311 sCard= 2 D d=2
+duplicate card j=311 sCard= 6 D d=5
+duplicate card j=311 sCard= 4 H d=3
+duplicate card j=311 sCard= 6 H d=3
+duplicate card j=311 sCard= 4 D d=1
+duplicate card j=311 sCard= 3 ? d=0
+duplicate card j=311 sCard= 2 H d=3
+duplicate card j=311 sCard= 3 ? d=3
+duplicate card j=311 sCard= 6 H d=4
+duplicate card j=311 sCard= 2 D d=4
+duplicate card j=311 sCard= 6 C d=0
+duplicate card j=311 sCard= 9 D d=0
+duplicate card j=311 sCard= K ? d=0
+duplicate card j=311 sCard= Q C d=3
+duplicate card j=311 sCard= 5 C d=5
+duplicate card j=311 sCard=10 C d=4
+duplicate card j=311 sCard= 9 ? d=4
+duplicate card j=311 sCard= 7 C d=3
+duplicate card j=311 sCard= Q H d=2
+duplicate card j=311 sCard= A H d=0
+duplicate card j=311 sCard= 7 H d=4
+duplicate card j=311 sCard=10 C d=3
+duplicate card j=311 sCard= 4 ? d=5
+duplicate card j=311 sCard= 5 H d=2
+duplicate card j=311 sCard=10 H d=4
+duplicate card j=311 sCard= 3 C d=2
+duplicate card j=311 sCard=10 ? d=5
+duplicate card j=311 sCard= 6 C d=3
+duplicate card j=311 sCard= 5 C d=4
+duplicate card j=311 sCard= 5 C d=4
+duplicate card j=311 sCard= A ? d=2
+duplicate card j=311 sCard= K C d=5
+duplicate card j=311 sCard= 3 H d=0
+duplicate card j=311 sCard= Q ? d=0
+duplicate card j=311 sCard= J D d=0
+duplicate card j=311 sCard= K H d=0
+duplicate card j=311 sCard= J D d=5
+duplicate card j=311 sCard= 7 D d=3
+duplicate card j=311 sCard= Q ? d=4
+duplicate card j=311 sCard= 5 C d=3
+duplicate card j=311 sCard= 3 C d=5
+duplicate card j=311 sCard= 8 C d=3
+duplicate card j=311 sCard=10 ? d=2
+duplicate card j=311 sCard= 7 C d=1
+duplicate card j=311 sCard= 4 H d=2
+duplicate card j=311 sCard= 2 ? d=1
+duplicate card j=311 sCard=10 ? d=1
+duplicate card j=311 sCard= J H d=5
+duplicate card j=311 sCard= J ? d=0
+duplicate card j=311 sCard= 5 C d=4
+duplicate card j=311 sCard= 2 H d=5
+duplicate card j=311 sCard= 5 C d=4
+duplicate card j=311 sCard= Q C d=4
+duplicate card j=311 sCard= 4 C d=1
+duplicate card j=311 sCard= 8 C d=2
+duplicate card j=311 sCard= 2 C d=3
+duplicate card j=311 sCard= 9 D d=5
+duplicate card j=311 sCard= 2 ? d=0
+duplicate card j=311 sCard=10 C d=4
+duplicate card j=311 sCard= J D d=4
+duplicate card j=311 sCard= J H d=2
+duplicate card j=311 sCard= 5 C d=2
+duplicate card j=311 sCard= 8 C d=5
+duplicate card j=311 sCard= 6 ? d=1
+duplicate card j=311 sCard=10 ? d=1
+duplicate card j=311 sCard= A H d=4
+duplicate card j=311 sCard= 5 D d=4
+duplicate card j=311 sCard=10 D d=0
+duplicate card j=311 sCard= 5 D d=1
+duplicate card j=311 sCard= Q C d=5
+duplicate card j=311 sCard= 7 D d=1
+duplicate card j=311 sCard= 6 C d=0
+duplicate card j=311 sCard= K H d=3
+duplicate card j=311 sCard= K H d=2
+duplicate card j=311 sCard= K D d=0
+duplicate card j=311 sCard= A ? d=2
+duplicate card j=311 sCard= 5 H d=3
+duplicate card j=311 sCard= 3 ? d=3
+duplicate card j=311 sCard= Q C d=0
+duplicate card j=311 sCard= J ? d=1
+duplicate card j=311 sCard= Q H d=1
+duplicate card j=311 sCard= A H d=1
+duplicate card j=311 sCard= 5 C d=5
+duplicate card j=311 sCard= 7 H d=1
+duplicate card j=311 sCard= 3 C d=1
+duplicate card j=311 sCard= 7 C d=3
+duplicate card j=311 sCard= 5 ? d=2
+duplicate card j=311 sCard= 8 C d=1
+duplicate card j=311 sCard= 8 D d=1
+duplicate card j=311 sCard= 9 D d=0
+duplicate card j=311 sCard= 2 ? d=1
+duplicate card j=311 sCard= 9 C d=2
+duplicate card j=311 sCard= 5 ? d=5
+duplicate card j=311 sCard= 8 ? d=3
+duplicate card j=311 sCard= A C d=5
+duplicate card j=311 sCard= K H d=0
+duplicate card j=311 sCard= Q D d=4
+duplicate card j=311 sCard= Q D d=1
+duplicate card j=311 sCard= 9 ? d=4
+duplicate card j=311 sCard= K ? d=2
+duplicate card j=311 sCard= 7 H d=5
+duplicate card j=311 sCard= A ? d=3
+duplicate card j=311 sCard=10 C d=3
+duplicate card j=311 sCard= K D d=0
+duplicate card j=311 sCard= J ? d=1
+duplicate card j=311 sCard= 5 ? d=1
+duplicate card j=311 sCard= 6 D d=0
+duplicate card j=311 sCard= 3 D d=5
+duplicate card j=311 sCard= 9 H d=3
+duplicate card j=311 sCard= 5 ? d=0
+duplicate card j=311 sCard= J ? d=2
+duplicate card j=311 sCard= 5 H d=3
+duplicate card j=311 sCard= 3 ? d=2
+duplicate card j=311 sCard=10 D d=4
+duplicate card j=311 sCard= 9 ? d=4
+duplicate card j=311 sCard= 6 H d=4
+duplicate card j=311 sCard= 2 C d=4
+duplicate card j=311 sCard= 7 C d=5
+duplicate card j=311 sCard= Q ? d=0
+duplicate card j=311 sCard= 4 ? d=2
+duplicate card j=311 sCard= 4 H d=4
+duplicate card j=311 sCard=10 D d=2
+duplicate card j=311 sCard= K ? d=3
+duplicate card j=311 sCard= K H d=1
+duplicate card j=311 sCard= K C d=5
+duplicate card j=311 sCard= 2 ? d=2
+duplicate card j=311 sCard= Q ? d=4
+duplicate card j=311 sCard= 2 D d=0
+duplicate card j=311 sCard= K H d=2
+duplicate card j=311 sCard= K C d=4
+duplicate card j=311 sCard= 5 ? d=2
+duplicate card j=311 sCard= A C d=1
+duplicate card j=311 sCard= 7 C d=4
+duplicate card j=311 sCard= K D d=4
+duplicate card j=311 sCard= 9 H d=2
+duplicate card j=311 sCard= 4 D d=5
+duplicate card j=311 sCard= 4 ? d=4
+duplicate card j=311 sCard= A D d=1
+duplicate card j=311 sCard= 7 H d=0
+duplicate card j=311 sCard= 9 ? d=3
+duplicate card j=311 sCard= 5 D d=2
+duplicate card j=311 sCard= 9 D d=5
+duplicate card j=311 sCard= Q C d=5
+duplicate card j=311 sCard= 3 D d=4
+duplicate card j=311 sCard= 3 H d=1
+duplicate card j=311 sCard= 5 ? d=1
+duplicate card j=311 sCard= 4 C d=5
+duplicate card j=311 sCard= 2 H d=5
+duplicate card j=311 sCard= 8 C d=5
+duplicate card j=311 sCard= K H d=5
+duplicate card j=311 sCard= 3 ? d=1
+duplicate card j=311 sCard= 7 C d=2
+duplicate card j=311 sCard=10 ? d=5
+duplicate card j=311 sCard=10 D d=4
+duplicate card j=311 sCard= Q C d=3
+duplicate card j=311 sCard= 3 ? d=1
+duplicate card j=311 sCard= A C d=0
+duplicate card j=311 sCard= J ? d=2
+duplicate card j=311 sCard= 8 ? d=4
+duplicate card j=311 sCard= 9 C d=0
+duplicate card j=311 sCard= K C d=1
+duplicate card j=311 sCard= 4 C d=0
+duplicate card j=311 sCard= 5 D d=3
+duplicate card j=311 sCard= K ? d=4
+duplicate card j=311 sCard= A ? d=0
+duplicate card j=311 sCard= 8 C d=3
+duplicate card j=311 sCard=10 C d=4
+duplicate card j=311 sCard= 8 H d=1
+duplicate card j=311 sCard= A C d=2
+duplicate card j=311 sCard= 5 H d=5
+duplicate card j=311 sCard= K ? d=0
+duplicate card j=311 sCard= 5 H d=4
+duplicate card j=311 sCard= 9 H d=4
+duplicate card j=311 sCard= Q H d=5
+duplicate card j=311 sCard= 3 H d=0
+duplicate card j=311 sCard= 5 C d=2
+duplicate card j=311 sCard= K D d=0
+duplicate card j=311 sCard= 9 C d=3
+duplicate card j=311 sCard= 2 ? d=4
+duplicate card j=311 sCard= K C d=3
+duplicate card j=311 sCard= 6 D d=5
+duplicate card j=311 sCard=10 D d=2
+duplicate card j=311 sCard= J D d=5
+duplicate card j=311 sCard= 6 D d=3
+duplicate card j=311 sCard= 8 ? d=3
+duplicate card j=311 sCard= 8 D d=5
+duplicate card j=311 sCard= 6 ? d=4
+duplicate card j=311 sCard= 9 ? d=5
+duplicate card j=311 sCard=10 H d=1
+duplicate card j=311 sCard= 4 H d=1
+duplicate card j=311 sCard= 5 C d=4
+duplicate card j=311 sCard= Q ? d=4
+duplicate card j=311 sCard= A C d=2
+duplicate card j=311 sCard= A C d=5
+duplicate card j=311 sCard= 3 D d=2
+duplicate card j=311 sCard= 3 H d=0
+duplicate card j=311 sCard= 6 H d=2
+duplicate card j=311 sCard= 7 H d=4
+duplicate card j=311 sCard= 4 H d=0
+duplicate card j=311 sCard= 4 C d=2
+duplicate card j=311 sCard= 3 H d=1
+duplicate card j=311 sCard= 7 C d=1
+duplicate card j=311 sCard= 2 ? d=5
+duplicate card j=311 sCard= 2 ? d=1
+duplicate card j=311 sCard= J H d=4
+duplicate card j=311 sCard= A ? d=4
+duplicate card j=311 sCard=10 D d=1
+duplicate card j=311 sCard= 2 C d=5
+duplicate card j=311 sCard= K ? d=5
+duplicate card j=311 sCard= J C d=5
+duplicate card j=311 sCard=10 H d=0
+duplicate card j=311 sCard= 8 C d=5
+duplicate card j=311 sCard=10 H d=3
+duplicate card j=311 sCard= Q C d=5
+duplicate card j=311 sCard= 7 D d=0
+duplicate card j=311 sCard= J ? d=0
+duplicate card j=311 sCard= 6 H d=1
+duplicate card j=311 sCard= 3 D d=2
+duplicate card j=311 sCard= 2 D d=0
+duplicate card j=311 sCard= 4 H d=4
+duplicate card j=311 sCard= 7 H d=4
+duplicate card j=311 sCard= 5 D d=3
+duplicate card j=311 sCard= 7 H d=5
+duplicate card j=311 sCard= 2 ? d=2
+duplicate card j=311 sCard= 6 H d=0
+duplicate card j=311 sCard= Q ? d=4
+duplicate card j=311 sCard= 9 H d=0
+duplicate card j=311 sCard= A C d=2
+duplicate card j=311 sCard= 8 ? d=1
+duplicate card j=311 sCard= A H d=2
+duplicate card j=311 sCard= 9 C d=2
+duplicate card j=311 sCard= K H d=0
+duplicate card j=311 sCard= 2 H d=1
+duplicate card j=311 sCard= J ? d=0
+duplicate card j=311 sCard= 5 H d=2
+duplicate card j=311 sCard=10 ? d=2
+duplicate card j=311 sCard= 4 ? d=0
+duplicate card j=311 sCard= 7 H d=0
+duplicate card j=311 sCard= 8 D d=4
+duplicate card j=311 sCard= 6 ? d=1
+duplicate card j=311 sCard= 4 C d=0
+duplicate card j=311 sCard= 3 ? d=4
+duplicate card j=311 sCard=10 C d=0
+duplicate card j=311 sCard= Q C d=5
+duplicate card j=311 sCard= 2 ? d=4
+duplicate card j=311 sCard= K D d=4
+duplicate card j=311 sCard= J D d=4
+duplicate card j=311 sCard=10 ? d=3
+duplicate card j=311 sCard= J C d=0
+duplicate card j=311 sCard= Q D d=5
+duplicate card j=311 sCard= 5 C d=4
+duplicate card j=311 sCard= 5 C d=5
+duplicate card j=311 sCard= 3 C d=5
+duplicate card j=311 sCard= K H d=0
+duplicate card j=311 sCard= 2 ? d=5
+duplicate card j=311 sCard= Q D d=2
+duplicate card j=311 sCard=10 C d=4
+duplicate card j=311 sCard= Q ? d=2
+duplicate card j=311 sCard= Q D d=1
+duplicate card j=311 sCard= 3 D d=1
+duplicate card j=311 sCard= 6 C d=2
+duplicate card j=311 sCard= 9 C d=1
+duplicate card j=311 sCard= 6 H d=1
+duplicate card j=311 sCard= 5 D d=3
+duplicate card j=311 sCard= 8 H d=5
+duplicate card j=311 sCard= A H d=3
+duplicate card j=311 sCard= A D d=1
+duplicate card j=311 sCard= 9 ? d=0
+duplicate card j=311 sCard= A C d=2
+duplicate card j=311 sCard= K D d=4
+duplicate card j=311 sCard= 8 ? d=0
+duplicate card j=311 sCard= Q H d=4
+duplicate card j=311 sCard= 9 C d=0
+duplicate card j=311 sCard= 8 ? d=4
+duplicate card j=311 sCard= 7 ? d=3
+duplicate card j=311 sCard= J D d=0
+duplicate card j=311 sCard= J ? d=3
+duplicate card j=311 sCard= K D d=5
+duplicate card j=311 sCard=10 ? d=1
+duplicate card j=311 sCard= J D d=5
+duplicate card j=311 sCard= 2 D d=2
+duplicate card j=311 sCard= 8 D d=0
+duplicate card j=311 sCard= J C d=1
+duplicate card j=311 sCard= 2 D d=5
+duplicate card j=311 sCard= Q C d=0
+duplicate card j=311 sCard= 8 H d=3
+duplicate card j=311 sCard= 4 C d=4
+duplicate card j=311 sCard= 4 H d=4
+duplicate card j=311 sCard= K H d=1
+duplicate card j=311 sCard= 3 H d=5
+duplicate card j=311 sCard= Q H d=4
+duplicate card j=311 sCard= 8 C d=2
+duplicate card j=311 sCard= 2 C d=1
+duplicate card j=311 sCard= Q D d=1
+duplicate card j=311 sCard= Q H d=3
+duplicate card j=311 sCard= 3 ? d=2
+duplicate card j=311 sCard= J H d=0
+duplicate card j=311 sCard= 6 H d=4
+duplicate card j=311 sCard= Q D d=5
+duplicate card j=311 sCard= 5 H d=3
+duplicate card j=311 sCard= 4 ? d=2
+duplicate card j=311 sCard= K H d=1
+duplicate card j=311 sCard=10 D d=1
+duplicate card j=311 sCard= K C d=0
+duplicate card j=311 sCard=10 D d=1
+duplicate card j=311 sCard= 5 ? d=3
+duplicate card j=311 sCard= 5 C d=0
+duplicate card j=311 sCard= 5 H d=2
+duplicate card j=311 sCard= Q D d=2
+duplicate card j=311 sCard= K C d=4
+duplicate card j=311 sCard= 5 C d=4
+duplicate card j=311 sCard= 5 ? d=2
+duplicate card j=311 sCard= A H d=0
+duplicate card j=311 sCard= A ? d=0
+duplicate card j=311 sCard= A C d=5
+duplicate card j=311 sCard= K C d=2
+duplicate card j=311 sCard= A C d=3
+duplicate card j=311 sCard= 6 H d=1
+duplicate card j=311 sCard= Q C d=4
+duplicate card j=311 sCard= Q D d=0
+duplicate card j=311 sCard= 9 D d=4
+duplicate card j=311 sCard= 4 D d=0
+duplicate card j=311 sCard= A C d=2
+duplicate card j=311 sCard= J ? d=2
+duplicate card j=311 sCard= 4 H d=5
+duplicate card j=311 sCard=10 C d=3
+duplicate card j=311 sCard= Q D d=4
+duplicate card j=311 sCard= 8 H d=3
+duplicate card j=311 sCard= K C d=0
+duplicate card j=311 sCard= 3 C d=1
+duplicate card j=311 sCard= 6 H d=2
+duplicate card j=311 sCard= 3 C d=0
+duplicate card j=311 sCard= 4 H d=4
+duplicate card j=311 sCard= 8 H d=3
+duplicate card j=311 sCard= K C d=2
+duplicate card j=311 sCard= 9 C d=5
+duplicate card j=311 sCard= K D d=0
+duplicate card j=311 sCard= 5 ? d=2
+duplicate card j=311 sCard= Q C d=3
+duplicate card j=311 sCard= 3 ? d=1
+duplicate card j=311 sCard= 6 ? d=4
+duplicate card j=311 sCard= J D d=0
+duplicate card j=311 sCard= 6 C d=3
+duplicate card j=311 sCard= 4 H d=4
+duplicate card j=311 sCard= 6 ? d=5
+duplicate card j=311 sCard= 4 D d=2
+duplicate card j=311 sCard=10 C d=3
+duplicate card j=311 sCard= 6 C d=2
+duplicate card j=311 sCard= 8 ? d=1
+duplicate card j=311 sCard=10 H d=2
+duplicate card j=311 sCard= 9 H d=5
+duplicate card j=311 sCard= 7 ? d=5
+duplicate card j=311 sCard= 2 ? d=2
+duplicate card j=311 sCard= A H d=3
+duplicate card j=311 sCard= A H d=5
+duplicate card j=311 sCard= 2 H d=3
+duplicate card j=311 sCard= 5 ? d=4
+duplicate card j=311 sCard=10 ? d=0
+duplicate card j=311 sCard= 5 ? d=4
+duplicate card j=311 sCard= 2 H d=1
+duplicate card j=311 sCard= A D d=1
+duplicate card j=311 sCard= 7 H d=5
+duplicate card j=311 sCard= J C d=5
+duplicate card j=311 sCard= J C d=5
+duplicate card j=311 sCard= 5 D d=5
+duplicate card j=311 sCard= 4 ? d=2
+duplicate card j=311 sCard= 7 H d=5
+duplicate card j=311 sCard=10 D d=2
+duplicate card j=311 sCard= 7 ? d=4
+duplicate card j=311 sCard= 8 D d=0
+duplicate card j=311 sCard=10 D d=4
+duplicate card j=311 sCard= 7 D d=4
+duplicate card j=311 sCard=10 C d=1
+duplicate card j=311 sCard= 7 ? d=0
+duplicate card j=311 sCard= 3 ? d=1
+duplicate card j=311 sCard= 7 C d=2
+duplicate card j=311 sCard= 8 C d=0
+duplicate card j=311 sCard= A ? d=1
+duplicate card j=311 sCard= A ? d=4
+duplicate card j=311 sCard= 6 D d=2
+duplicate card j=311 sCard= 7 D d=2
+duplicate card j=311 sCard= 5 ? d=0
+duplicate card j=311 sCard= 5 H d=2
+duplicate card j=311 sCard= K D d=1
+duplicate card j=311 sCard= A C d=1
+duplicate card j=311 sCard= 3 C d=4
+duplicate card j=311 sCard=10 H d=2
+duplicate card j=311 sCard= 7 H d=0
+duplicate card j=311 sCard= 2 D d=5
+duplicate card j=311 sCard=10 D d=4
+duplicate card j=311 sCard= 4 D d=3
+duplicate card j=311 sCard= 2 C d=0
+duplicate card j=311 sCard= 5 ? d=4
+duplicate card j=311 sCard= A C d=3
+duplicate card j=311 sCard= 9 D d=5
+duplicate card j=311 sCard= K H d=5
+duplicate card j=311 sCard=10 ? d=1
+duplicate card j=311 sCard= 2 H d=3
+duplicate card j=311 sCard= 6 C d=4
+duplicate card j=311 sCard= 9 D d=4
+duplicate card j=311 sCard= J H d=4
+duplicate card j=311 sCard= 6 ? d=1
+duplicate card j=311 sCard= Q C d=4
+duplicate card j=311 sCard= Q ? d=4
+duplicate card j=311 sCard= 7 ? d=3
+duplicate card j=311 sCard= 9 C d=4
+duplicate card j=311 sCard= 9 C d=2
+ A D d=5
+ A H d=3
+ A H d=4
+ Q D d=4
+ 5 H d=4
+ 2 D d=5
+ 5 ? d=5
+ 4 D d=5
+ A D d=2
+ 5 C d=1
+ 7 H d=2
+ 2 ? d=0
+10 D d=0
+ K C d=2
+ 6 ? d=3
+ J D d=4
+ J ? d=2
+10 H d=2
+ 7 H d=0
+ 2 ? d=5
+ 6 C d=2
+ 4 D d=0
+ 3 D d=1
+ 5 D d=1
+ 2 ? d=1
+ 7 D d=5
+ 5 C d=3
+ J H d=1
+ Q H d=1
+ 2 C d=0
+ A C d=5
+ 2 H d=3
+ 7 D d=1
+ K C d=3
+ 8 H d=4
+10 ? d=5
+ 7 D d=0
+ A ? d=3
+ 9 H d=3
+ A C d=0
+10 H d=5
+ 2 H d=1
+ 2 C d=3
+ 4 C d=5
+ 5 H d=3
+ J ? d=3
+ A C d=1
+ 7 ? d=4
+ 4 D d=3
+10 H d=3
+ A C d=2
+ Q H d=3
+ 6 ? d=0
+ 9 C d=3
+ K ? d=5
+ J D d=0
+ Q D d=0
+ 6 ? d=2
+ 9 C d=1
+ A H d=2
+ A D d=3
+ 6 H d=4
+ 9 D d=3
+ 5 D d=3
+ 5 C d=0
+ 3 H d=2
+ K C d=0
+ 8 D d=2
+ K D d=1
+ 9 D d=0
+ J D d=5
+ A ? d=2
+ J C d=3
+ Q D d=1
+10 D d=5
+ J ? d=1
+10 H d=4
+ 3 C d=4
+ 7 H d=1
+ 3 H d=0
+ 7 ? d=2
+10 C d=3
+ K C d=4
+ Q C d=4
+ 2 H d=5
+ J C d=0
+ K C d=1
+ 5 H d=2
+ 4 D d=4
+ Q ? d=1
+ 2 ? d=4
+ 3 ? d=5
+ 8 ? d=3
+ 8 C d=5
+ 4 ? d=3
+ 8 D d=1
+ 6 D d=3
+ 5 D d=4
+ 8 ? d=5
+ K H d=1
+ 4 C d=2
+ 6 ? d=1
+ A ? d=0
+ A ? d=5
+ 2 C d=5
+ 6 D d=0
+ 5 ? d=2
+ 6 ? d=4
+ 2 C d=4
+ J D d=2
+ 8 H d=3
+10 D d=2
+ 7 C d=0
+ 9 C d=5
+10 D d=3
+10 C d=1
+ 3 D d=3
+10 C d=0
+ 6 C d=4
+ 8 ? d=4
+ J D d=3
+ 8 C d=0
+ 3 C d=5
+ 3 C d=1
+10 ? d=4
+ 6 H d=2
+ 3 ? d=2
+ 9 D d=2
+ A ? d=4
+ 3 H d=5
+ 3 H d=4
+ 3 D d=4
+ 9 C d=2
+ K D d=4
+ 3 D d=0
+ 8 D d=3
+ 8 C d=4
+ 5 ? d=4
+ 7 ? d=1
+ 2 H d=0
+ 5 D d=5
+ 4 C d=4
+ 8 H d=2
+ 6 H d=3
+ 2 D d=0
+ J D d=1
+ 9 ? d=3
+10 C d=5
+ 6 ? d=5
+ 6 C d=0
+ 3 C d=0
+ J H d=0
+ K C d=5
+ 9 H d=4
+ 4 C d=1
+ 9 ? d=0
+ 7 C d=2
+ K D d=3
+ 4 H d=1
+ 6 H d=5
+ 8 H d=0
+ K D d=5
+ 7 H d=4
+ K ? d=0
+ Q C d=2
+ 4 ? d=4
+ 9 C d=0
+ K H d=4
+10 C d=2
+ 6 D d=5
+10 D d=1
+ 7 H d=3
+ Q D d=5
+ 8 ? d=1
+10 ? d=0
+ 7 D d=2
+ J ? d=5
+ K D d=0
+ 9 H d=5
+ Q H d=0
+ 9 ? d=5
+ A D d=1
+ K D d=2
+ 4 ? d=0
+ 2 D d=4
+ 4 ? d=1
+ 2 D d=2
+ 2 ? d=2
+ 9 ? d=2
+ K H d=5
+ 4 H d=4
+ Q ? d=2
+ 3 D d=2
+10 D d=4
+ 5 H d=1
+ 4 C d=3
+ 6 H d=0
+ 8 C d=2
+ 9 C d=4
+ Q C d=5
+ Q C d=3
+10 ? d=3
+ J ? d=4
+ J H d=3
+10 ? d=1
+ K ? d=3
+ 4 H d=3
+ 5 ? d=0
+ 6 H d=1
+ 8 H d=5
+ A D d=0
+ 8 ? d=2
+ 8 C d=3
+ K ? d=2
+ 4 C d=0
+ 4 ? d=2
+ 4 H d=5
+ 5 H d=0
+ 7 C d=4
+ 5 D d=0
+ 3 C d=2
+ Q D d=3
+ 5 C d=5
+ 6 C d=1
+ 7 ? d=3
+ 3 ? d=3
+ 2 D d=1
+10 H d=1
+ 3 ? d=4
+ A H d=5
+ Q C d=1
+10 C d=4
+ 7 ? d=0
+ Q ? d=4
+ 3 D d=5
+ K ? d=4
+ 4 D d=1
+ 3 H d=3
+ 8 C d=1
+ 6 C d=3
+ 6 D d=2
+ 2 C d=2
+ J ? d=0
+ A C d=3
+ A D d=4
+ 4 ? d=5
+ J H d=5
+ 5 D d=2
+ Q H d=2
+ J H d=2
+ A ? d=1
+ 2 ? d=3
+ J H d=4
+ 4 D d=2
+ 5 ? d=1
+ Q ? d=0
+ 7 D d=4
+ 8 ? d=0
+ Q H d=4
+ 2 D d=3
+ 8 D d=4
+ 6 C d=5
+ 5 ? d=3
+ 8 H d=1
+ Q D d=2
+ 7 H d=5
+10 H d=0
+ Q ? d=5
+ A H d=1
+ Q H d=5
+10 ? d=2
+ 4 H d=2
+ 9 D d=1
+ A C d=4
+ 8 D d=5
+ Q C d=0
+ 6 D d=4
+ K H d=3
+ 3 H d=1
+ K H d=0
+ 3 C d=3
+ 7 ? d=5
+ 7 D d=3
+ 7 C d=5
+ 5 C d=4
+ 9 H d=1
+ 9 H d=2
+ 4 H d=0
+ 2 H d=4
+ 9 D d=4
+ K ? d=1
+ 7 C d=3
+ 2 H d=2
+ 3 ? d=1
+ J C d=1
+ 5 C d=2
+ 9 H d=0
+ J C d=4
+ 9 ? d=4
+ 9 ? d=1
+ J C d=5
+ 8 D d=0
+ A H d=0
+ Q ? d=3
+ 6 D d=1
+ 3 ? d=0
+ 2 C d=1
+ 7 C d=1
+ K H d=2
+ 5 H d=5
+ 9 D d=5
+ J C d=2
+deckOfCards.size() [ArrayList] =312
+hashDeckOfCards.size() [HashSet] =312
+[ 6 C d=1,  6 C d=0,  6 C d=3,  6 C d=2, 10 H d=4,  6 C d=5, 10 H d=5,  6 C d=4, 10 H d=2, 10 H d=3,  K ? d=0,  2 D d=1,  2 D d=2,  K ? d=1,  2 D d=0,  K ? d=4,  K ? d=5,  K ? d=2,  K ? d=3,  2 D d=5,  A C d=5,  2 D d=3,  2 D d=4,  A C d=2,  2 H d=5,  A C d=1,  2 H d=3,  A C d=4,  A C d=3,  2 H d=4,  2 H d=1,  5 ? d=0,  5 ? d=1,  2 H d=2,  A C d=0,  5 ? d=2,  2 H d=0,  5 ? d=3,  5 ? d=4,  5 ? d=5,  8 H d=0,  8 H d=5, 10 H d=0, 10 H d=1,  8 H d=1,  8 H d=2,  8 H d=3,  8 H d=4,  9 H d=2,  9 H d=3,  9 H d=0,  9 H d=1,  9 H d=4,  9 H d=5,  4 ? d=5,  A ? d=3, 10 D d=4,  3 H d=3,  3 H d=2,  A ? d=2, 10 D d=5,  4 ? d=0, 10 D d=2,  3 H d=5,  A ? d=1,  A ? d=0, 10 D d=3,  3 H d=4, 10 D d=0,  4 ? d=3,  4 ? d=4, 10 D d=1,  A ? d=5,  4 ? d=1,  3 H d=1,  3 H d=0,  A ? d=4,  4 ? d=2,  6 ? d=2,  6 ? d=1,  6 ? d=0,  K C d=0,  K C d=1,  K C d=2,  6 ? d=5,  6 ? d=4,  6 ? d=3,  K C d=3,  K C d=4,  K C d=5,  3 D d=0,  3 D d=1,  9 ? d=1,  9 ? d=0,  9 ? d=3,  9 ? d=2,  9 ? d=5,  9 ? d=4,  J D d=3,  J D d=4,  J D d=5,  J D d=0,  J D d=1,  J D d=2,  3 D d=2,  3 D d=3,  3 D d=4,  3 D d=5,  8 ? d=4,  8 ? d=3,  8 ? d=2,  8 ? d=1,  8 ? d=5,  K H d=0,  K H d=1,  K H d=4,  K H d=5,  K H d=2,  K H d=3,  8 ? d=0,  7 ? d=1,  Q ? d=5,  7 ? d=0,  Q ? d=4,  K D d=0,  Q ? d=3,  K D d=1,  Q ? d=2,  Q ? d=1,  Q ? d=0,  K D d=4,  K D d=5,  K D d=2,  K D d=3,  J H d=3,  J H d=4,  J H d=5,  7 ? d=3,  7 ? d=2,  J H d=0,  J H d=1,  7 ? d=5,  7 ? d=4,  J H d=2,  Q D d=3,  Q D d=2,  Q D d=1,  Q D d=0,  3 C d=5,  3 C d=3,  3 C d=4,  9 C d=1,  3 C d=1,  9 C d=2,  3 C d=2,  9 C d=3,  3 C d=0,  9 C d=4,  Q D d=5,  Q D d=4,  9 C d=0,  9 C d=5,  2 ? d=5,  2 ? d=3,  2 ? d=4,  2 ? d=1,  5 H d=1,  2 ? d=2,  5 H d=0,  5 H d=3,  J C d=4,  2 ? d=0,  5 H d=2,  J C d=5,  5 H d=5,  J C d=2,  5 H d=4,  J C d=3,  J C d=0,  J C d=1,  4 D d=4,  4 D d=3, 10 ? d=1,  4 D d=2, 10 ? d=0,  4 D d=1,  4 D d=5,  8 C d=3,  8 C d=2,  8 C d=5,  8 C d=4, 10 ? d=3, 10 ? d=2, 10 ? d=5,  8 C d=1,  8 C d=0, 10 ? d=4,  A H d=4,  A D d=0,  A D d=1,  A H d=5,  A D d=2,  A D d=3,  4 D d=0,  A H d=0,  A H d=1,  A H d=2,  A H d=3,  A D d=4,  A D d=5,  5 D d=1,  2 C d=4,  2 C d=5,  5 D d=0,  5 D d=3,  5 D d=2,  5 D d=5,  5 D d=4,  2 C d=0,  2 C d=1,  2 C d=2,  2 C d=3,  9 D d=2,  9 D d=3,  9 D d=0,  9 D d=1,  6 D d=5,  6 D d=4,  9 D d=4,  6 D d=3,  9 D d=5,  6 D d=2,  6 D d=1,  6 D d=0,  4 H d=5,  3 ? d=2,  4 H d=0,  3 ? d=3,  3 ? d=4,  3 ? d=5,  4 H d=4,  4 H d=3,  4 H d=2,  3 ? d=0,  4 H d=1,  3 ? d=1,  7 C d=5,  7 C d=4,  7 C d=3,  7 C d=2,  7 C d=1,  7 C d=0,  Q C d=5,  Q C d=0,  Q C d=2,  Q C d=1,  Q C d=4,  Q C d=3,  6 H d=2, 10 C d=5,  6 H d=1,  6 H d=0, 10 C d=4, 10 C d=3, 10 C d=2, 10 C d=1, 10 C d=0,  4 C d=0,  4 C d=1,  6 H d=5,  6 H d=4,  6 H d=3,  Q H d=0,  7 D d=3,  Q H d=1,  7 D d=2,  7 D d=5,  Q H d=2,  Q H d=3,  7 D d=4,  4 C d=2,  Q H d=4,  4 C d=3,  Q H d=5,  7 D d=1,  4 C d=4,  7 D d=0,  4 C d=5,  J ? d=2,  J ? d=1,  J ? d=0,  5 C d=0,  7 H d=4,  J ? d=5,  7 H d=5,  7 H d=2,  J ? d=4,  J ? d=3,  7 H d=3,  7 H d=0,  7 H d=1,  8 D d=5,  5 C d=4,  8 D d=0,  5 C d=3,  5 C d=2,  5 C d=1,  8 D d=4,  8 D d=3,  8 D d=2,  8 D d=1,  5 C d=5]
